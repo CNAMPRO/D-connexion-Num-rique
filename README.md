@@ -10,36 +10,22 @@
 - => Se libérer *d'une meute*/d'un univers qui lie tout le monde et qui ne veut pas qu'on s'en détache
   - [**Détachement**,**Libération**,**Dépendance**, **Univers**]
 - => **ROAD TO SILENCE**
-
-
-
-
 ### NOTE D'INTENTION
-*Fil conducteur du projet, cette note est appruvée par tous les membres de l'équipe*
+- *Fil conducteur du projet, cette note est appruvée par tous les membres de l'équipe*
 La deconnexion numérique est forcée, imposée ou est due à une démarche personnelle parsemée d'ambuches.
 - => Idée 1 : Se libérer *d'une meute*/d'un univers qui lie tout le monde et qui ne veut pas qu'on s'en détache.
 - => Idée 2 :  Humanoïd qui s'humanise, arrache ses connexion par étapes, retrouve ses 5 sens.
-
-
 ### CONCEPT / ANGLE ET POINT DE VUE
-*Orientation qu'on souhaite donner au projet*
+- *Orientation qu'on souhaite donner au projet*
 Orentientation => Culturelle
-*Motivation à aborder la problématique*
-On dit souvent IRL
-*Les références culturelles, sociales*
-MEH
-*contraintes*
-Processing
-
+- *Motivation à aborder la problématique* => On dit souvent IRL
+- *Les références culturelles, sociales* => MEH
+- *contraintes* => Processing
 ### OBJECTIFS
-*Objectif général du projet*
-Imposé
-*Changement de comportement ou de perception qu'on attend de chez l'user final*
-Je suis un mouton
-
+- *Objectif général du projet* => Imposé
+- *Changement de comportement ou de perception qu'on attend de chez l'user final* => Je suis un mouton
 ### CIBLES:
-*A qui on s'addresse, groupe of usesrs ou comportement d'users qu'on souhaite toucher*
-Aux moutons
-
+- *A qui on s'addresse, groupe of usesrs ou comportement d'users qu'on souhaite toucher* => Aux moutons
 ### PITCH
-*Résumer l'idée en 1000 signes au max*
+- *Résumer l'idée en 1000 signes au max*
+  
