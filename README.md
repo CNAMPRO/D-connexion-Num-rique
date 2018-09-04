@@ -128,3 +128,12 @@ Beaucoup trop noir
 
 
 
+
+
+
+
+
+
+
+### RESSOURCES : 
+- Youtube channel : TrainingCode *Merci Kévin*
