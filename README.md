@@ -1,5 +1,5 @@
 # Déconnexion numérique
-![](https://mir-s3-cdn-cf.behance.net/project_modules/disp/62a30d17678797.562bd8bcbf6e2.jpg)
+![](https://static1.squarespace.com/static/4ff36a2b84aecc34311d0e6c/t/5b5ca9021ae6cf84852027e4/1532799254230/techno-slaves.jpg)
 
 ### Brainstorming
 - Déconnexion => Libération, détachement, sortie, *RUPTURE*, Noir => *lumière*, transformation, ralentissement *low tempo*, 
@@ -21,7 +21,7 @@ Orentientation => Culturelle, une expérience visuelle
 - *Motivation à aborder la problématique* => On dit souvent IRL
 - *Les références culturelles, sociales* => 
 Crystal Castles, un groupe qui éléctronise les dégueulasseries du monde numérique <sorry>
-![](http://s3.amazonaws.com/factmag-images/wp-content/uploads/2012/09/06114149/crystal_castles_iii1-616x440.jpeg)
+![](https://78.media.tumblr.com/728754849adef0adfdc08aa7b753c3b3/tumblr_oo7wwedGbF1s9nbw1o1_540.gif)
 - *contraintes* => Processing
 ### OBJECTIFS
 - *Objectif général du projet* => Sensibilisation
