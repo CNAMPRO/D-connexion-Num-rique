@@ -70,6 +70,7 @@ Le process est ici représenté par 8 trames
         - vit dans un hlm
         - Traits de caractère : Accent du sud, qui dit peuneu et gadji et qui aime le RCT en disant tout le temps oh con et ma foi
         - Relation à la technologie : 10/10 => Addicted
+        - Il porte des adidas Vegan parce que c'est à la mode
       - Objectifs :
         - Augmenter ses likes sur Instagram
         - Augmenter ses relations sur LinkedIn
