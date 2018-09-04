@@ -23,7 +23,8 @@ Orentientation => Culturelle
 - *contraintes* => Processing
 ### OBJECTIFS
 - *Objectif général du projet* => Imposé
-- *Changement de comportement ou de perception qu'on attend de chez l'user final* => Je suis un mouton
+- *Changement de comportement ou de perception qu'on attend de chez l'user final* => 
+  - Que l'utilisateur final dise : **WHOA**
 ### CIBLES:
 - *A qui on s'addresse, groupe of usesrs ou comportement d'users qu'on souhaite toucher* => Aux moutons
 ### PITCH
