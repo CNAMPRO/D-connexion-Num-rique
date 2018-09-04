@@ -49,7 +49,10 @@ Le process est ici représenté par 8 trames
 ### CIBLES:
 > *A qui on s'addresse, groupe of usesrs ou comportement d'users qu'on souhaite toucher*
   - Adolescent à jeune adulte habitués aux technologies numériques 
-  - Exemple de PERSONA
+  - Exemple de PERSONA : 
+  
+  
+  
     ![](http://www.iconninja.com/files/837/326/356/user-young-male-avatar-person-man-icon.png)
     - Joel, étudiant en droit
       - Informations de base :
