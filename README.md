@@ -48,7 +48,24 @@ Le process est ici représenté par 8 trames
   - Que l'utilisateur final : Prenne conscience de mon point de vue de l'univers numérique
 ### CIBLES:
 > *A qui on s'addresse, groupe of usesrs ou comportement d'users qu'on souhaite toucher*
-  - Aux enfants du numériques
+  - Adolescent à jeune adulte habitués aux technologies numériques 
+  - Exemple de PERSONA
+    ![](http://www.iconninja.com/files/837/326/356/user-young-male-avatar-person-man-icon.png)
+    - Joel, étudiant en droit
+      - Informations de base :
+        - Age : 20 ans
+        - Situation familiale : Célibataire, sans enfant
+        - Centres d'interêt : Réseaux sociaux, jeux vidéos, pizza
+        - Relation à la technologie : 10/10 => Addicted
+      - Objectifs :
+        - Augmenter ses likes sur Instagram
+        - Augmenter ses relations sur LinkedIn
+        - Soigner son image numérique au maximum
+        - Trouver une copine sur Meetic
+      - Découverte du projet :
+        - Trailer en publicité sur Instagram
+        - Recherche de mots clés sur google
+     
 ### PITCH
 > *Résumer l'idée en 1000 signes au max*
   
