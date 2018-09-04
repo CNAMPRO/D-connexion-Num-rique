@@ -36,14 +36,14 @@ Un homme seul et sans émotion qui erre lentement dans l'obscurité, on le voit 
 - Journée type : Code toute la journée et regarde les nouvelles technologie après le travail
 
 ## Découverte de la publicité interactive
-- 1 . Sur google, il cherche "se déconnecter du numérique","se détacher du numérique".
-- 2 . Lors de ses recherches google, il clique sur la publicité intéractive
-- 3 . Sur les réseaux sociaux, il clique sur un article en relation avec la deconnexion du numérique
+- Sur google, il cherche "se déconnecter du numérique","se détacher du numérique".
+- Lors de ses recherches google, il clique sur la publicité intéractive
+- Sur les réseaux sociaux, il clique sur un article en relation avec la deconnexion du numérique
 
 ## Chemin vers l'objectif
-- 1 . Il découvre publicité interactive et commence à s'intéresser par le contenu.
-- 2 . Il se retrouve absorbé par la musique, l'ambiance de cette histoire qui le touche 
-- 3 . Il ressent un besoin de se déconnecter afin de se poser des questions.  
+- Il découvre publicité interactive et commence à s'intéresser par le contenu.
+- Il se retrouve absorbé par la musique, l'ambiance de cette histoire qui le touche 
+- Il ressent un besoin de se déconnecter afin de se poser des questions.  
 
 ## Objections 
 - Musique insuportable
