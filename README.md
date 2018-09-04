@@ -90,3 +90,9 @@ Un monde vendeur de rêves est le marchand de sable idéal pour les naîf et les
 *héhéhéhéhéhéhéhéhéhé*
 
 
+1. Joel est sur Instagram à farmer les likes 
+2. Il tombe sur un post animé, sombre qui le vise directement ( ex:*HEY U SPENT 6H on INSTAGRAM TODAY, WHU U DO THIS?*)
+3. Il clique dessus et se retrouve sur le site hebergeant le project interactif
+4. Il lance le projet et se laisse emporter par les sons, les visuels et une simple ergonomie, il n'a qu'à suivre l'histoire
+5. A la fin de son expérience, il ressent une gène, s'abonne à notre compte instagram et achète potentiellement nos futurs produits derivés parce que c'est à la mode de ne plus être à la mode cqfdmeh
+Beaucoup trop noir
