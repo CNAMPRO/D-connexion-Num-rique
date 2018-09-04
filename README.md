@@ -32,6 +32,8 @@ Crystal Castles, un groupe qui éléctronise les dégueulasseries du monde numé
 ### PITCH
 - *Résumer l'idée en 1000 signes au max*
   
+  - [Daft Punk - Veridis Quo](https://www.youtube.com/watch?v=HhZaHf8RP6g)
+  
   
 
 
