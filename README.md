@@ -49,7 +49,7 @@ Le process est ici représenté par 8 trames
 - *Résumer l'idée en 1000 signes au max*
 ![](https://78.media.tumblr.com/dd64a5cbf611c7908afbe1381dee7933/tumblr_orr7sjGkvi1u4knsco1_500.gif)
   
--![![YEAR OF SILENCE](https://www.youtube.com/watch?v=F2as7j0mK9I)
+- [![YEAR OF SILENCE](https://www.youtube.com/watch?v=F2as7j0mK9I)
 
 
   
