@@ -15,6 +15,13 @@
 La deconnexion numérique est forcée, imposée ou est due à une démarche personnelle parsemée d'ambuches.
 - => Idée 1 : Se libérer *d'une meute*/d'un univers qui lie tout le monde et qui ne veut pas qu'on s'en détache.
 - => Idée 2 :  Humanoïd qui s'humanise, arrache ses connexion par étapes, retrouve ses 5 sens.
+
+Le process est ici représenté par 8 trames
+![](https://i.imgur.com/aEglXm3.png)
+- 1 : L'univers actuel
+- 2 : Sa représentation
+- 3 à 7 : Sa libération 
+- 8 : Son objectif
 ### CONCEPT / ANGLE ET POINT DE VUE
 - *Orientation qu'on souhaite donner au projet*
 Orentientation => Culturelle, une expérience visuelle
