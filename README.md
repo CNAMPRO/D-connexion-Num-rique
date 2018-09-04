@@ -76,6 +76,9 @@ Le process est ici représenté par 8 trames
       - Découverte du projet :
         - Trailer en publicité sur Instagram
         - Recherche de mots clés sur google
+      - FREINS
+        - Epileptique 
+        - Trop sensible
      
 ### PITCH
 > *Résumer l'idée en 1000 signes au max*
