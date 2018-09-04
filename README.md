@@ -16,6 +16,12 @@ La deconnexion numérique est forcée, imposée ou est due à une démarche pers
 - => Idée 1 : Se libérer *d'une meute*/d'un univers qui lie tout le monde et qui ne veut pas qu'on s'en détache.
 - => Idée 2 :  Humanoïd qui s'humanise, arrache ses connexion par étapes, retrouve ses 5 sens.
 
+- En regroupant les deux idées :
+
+à la recherche de ses sens perdus, on tente de se libérer d'un univers qui refuse cette déconnexion.
+
+
+
 Le process est ici représenté par 8 trames
 ![](https://i.imgur.com/aEglXm3.png)
 - 1 : L'univers actuel
