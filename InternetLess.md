@@ -22,7 +22,7 @@ Changer la perception de la deconnexion chez l'utilisateur, que ce ne soit plus 
 
 
 ## Pitch
-Un homme seul qui marche normalement sur un chemin en terre avec pour décors quelque maison sur les côtés et une musique ambiante simple et légère, on peut voir un grand champ au loin.Puis la musique devient de plus en plus lourde, des buildings s'installent partout dans les décors avec des panneaux publicitaires, la technologie remplit l'écran.Le personnage erre lentement dans l'obscurité, on le voit avoir froid, déambuler dans une ruelle avec vue sur des fleurs fanées, des lignes électriques en hauteur qui disjonctent (arc électrique), de la fumée qui sort des egouts et des rats qui entrent dedans, des animaux qui mangent dans des poubelles sur une musique lourde instrument à cordes pendant un temps infinie, jusqu'à ce que la musique s'intensifie et que le personnage court ( système de jeu de musique style OSU, plus on arrive à suivre le rythme plus la musique s'intensifie et plus le personnage se met à courir vite ) jusqu'au moment où le personnage arrive dans un cul de sac et saute dans un mur qui se brise, ce qui change le paysage, dans une plaine, très coloré avec des cerisiers japonais, des animaux qui passent à côté du personnage, heureux entrain de jouer entre eux, des oiseaux qui chantent en plus d'une musique entrainante avec des instruments à vent, le personnage ressent la chaleur du soleil, il est heureux et sourit.
+Un homme seul qui marche normalement sur un chemin en terre avec pour décors quelques maison sur les côtés et une musique ambiante simple et légère, on peut voir un grand champ au loin. Puis la musique devient de plus en plus lourde, des buildings s'installent partout dans les décors avec des panneaux publicitaires autour du personnage, la technologie remplit l'écran.Le personnage erre lentement dans l'obscurité, on le voit avoir froid, déambuler dans une ruelle avec vue sur des fleurs fanées, des lignes électriques en hauteur qui disjonctent (arc électrique), de la fumée qui sort des egouts et des rats qui entrent dedans, des animaux qui mangent dans des poubelles sur une musique lourde instrument à cordes pendant un temps infinie, jusqu'à ce que la musique s'intensifie et que le personnage court ( système de jeu de musique style OSU, plus on arrive à suivre le rythme plus la musique s'intensifie et plus le personnage se met à courir vite ) jusqu'au moment où le personnage arrive dans un cul de sac et saute dans un mur qui se brise, ce qui change le paysage, dans une plaine, très coloré avec des cerisiers japonais, des animaux qui passent à côté du personnage, heureux entrain de jouer entre eux, des oiseaux qui chantent en plus d'une musique entrainante avec des instruments à vent, le personnage ressent la chaleur du soleil, il est heureux et sourit.
 ***
 # PERSONA 
 
@@ -31,12 +31,12 @@ Un homme seul qui marche normalement sur un chemin en terre avec pour décors qu
 - **Age :** 21 ans
 - **Situation familiale :** Célibataire, sans enfant
 - **Profession :** Développeur dans une startup
-- **Centre d'interet :** technologie
+- **Centre d'interet :** technologie, musique
 - **Journée type :** Code toute la journée et regarde les nouvelles technologies après le travail
 
-## Découverte de la publicité interactive
+## Découverte de l'application
 - Sur google, il cherche "se déconnecter du numérique","se détacher du numérique".
-- Lors de ses recherches google, il clique sur la publicité intéractive
+- Lors de ses recherches google, il clique sur la publicité
 - Sur les réseaux sociaux, il clique sur un article en relation avec la deconnexion du numérique
 
 ## Chemin vers l'objectif
