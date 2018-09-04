@@ -89,7 +89,7 @@ VOILA :
 
 
 
-### Arc Narratif : 
+### ARCHES NARRATIVES : 
 
 
 Un monde vendeur de rêves est le marchand de sable idéal pour les naîf et les plus influençables, dans cette expérience on va apprendre à se découvrir en se libérant des entraves numériques.
@@ -112,9 +112,6 @@ Beaucoup trop noir
 
 
 
-
-### Processus du projet
-
 ![](https://i.imgur.com/aEglXm3.png)
 
 1. Début de l'expérience sur une application point and click très simpliste en 2D
@@ -126,6 +123,7 @@ Beaucoup trop noir
 8. On regagne le gout, le mcdo fait place à une bonne viande (ouais je sais pas quoi mettre)
 9. On regagne le toucher, on est en contact avec une autre personne en dehors de la téchnologie, 
 10. Tout s'eclaircit et un message à la fin ( TODO )
+
 
 
 
