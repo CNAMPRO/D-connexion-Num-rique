@@ -106,6 +106,7 @@ Beaucoup trop noir
 
 ### Processus du projet
 
+![](https://i.imgur.com/aEglXm3.png)
 
 1. Début de l'expérience sur une application point and click très simpliste en 2D
 2. Le début est bruyant, coloré, vif
