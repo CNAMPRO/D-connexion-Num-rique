@@ -94,9 +94,28 @@ Un monde vendeur de rêves est le marchand de sable idéal pour les naîf et les
 2. Il tombe sur un post animé, sombre qui le vise directement ( ex:*HEY U SPENT 6H on INSTAGRAM TODAY, WHU U DO THIS?*)
 3. Il clique dessus et se retrouve sur le site hebergeant le project interactif
 4. Il lance le projet et se laisse emporter par les sons, les visuels et une simple ergonomie, il n'a qu'à suivre l'histoire
-5. A la fin de son expérience, il ressent une gène, s'abonne à notre compte instagram et achète potentiellement nos futurs produits derivés parce que c'est à la mode de ne plus être à la mode cqfdmeh
+5. A la fin de son expérience, il ressent une gène, s'abonne à notre compte instagram et achète potentiellement nos futurs produits derivés parce que c'est à la mode de ne plus être à la mode cqfdme
 
 ![](https://pbs.twimg.com/profile_images/420671071143350273/Rl5-rGd1_400x400.jpeg)
 
 
 Beaucoup trop noir
+
+
+
+
+### Processus du projet
+
+
+1. Début de l'expérience sur une application point and click très simpliste en 2D
+2. Le début est bruyant, coloré, vif
+3. Plusieurs étapes sont disponibles pour apaiser cette expérience, l'adoucir, se débarasser des nuisances
+5. On regagne son ouï, le son baisse et devient plus agréable
+6. On regagne la vue, les couleurs s'adoucissent et l'univers s'éclaire
+7. On regagne son odorat, on respire, on sent des choses, => Mb représenter l'odorat par la synesthésie (ex Ratatouille)
+8. On regagne le gout, le mcdo fait place à une bonne viande (ouais je sais pas quoi mettre)
+9. On regagne le toucher, on est en contact avec une autre personne en dehors de la téchnologie, 
+10. Tout s'eclaircit et un message à la fin ( TODO )
+
+
+
