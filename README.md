@@ -44,9 +44,14 @@ Le process est ici représenté par 8 trames
 - *Changement de comportement ou de perception qu'on attend de chez l'user final* => 
   - Que l'utilisateur final : Prenne conscience de mon point de vue de l'univers numérique
 ### CIBLES:
-- *A qui on s'addresse, groupe of usesrs ou comportement d'users qu'on souhaite toucher* => Aux addicts
+> *A qui on s'addresse, groupe of usesrs ou comportement d'users qu'on souhaite toucher*
+  - Aux addicts
 ### PITCH
-- *Résumer l'idée en 1000 signes au max*
+> *Résumer l'idée en 1000 signes au max*
+  
+  
+  
+  
 ![](https://78.media.tumblr.com/dd64a5cbf611c7908afbe1381dee7933/tumblr_orr7sjGkvi1u4knsco1_500.gif)
   
 - [![YEAR OF SILENCE](https://www.youtube.com/watch?v=F2as7j0mK9I)
