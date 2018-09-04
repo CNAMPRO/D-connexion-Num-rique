@@ -52,7 +52,6 @@ Le process est ici représenté par 8 trames
   - Exemple de PERSONA : 
   
   
-  
     ![](http://www.iconninja.com/files/837/326/356/user-young-male-avatar-person-man-icon.png)
     - Joel, étudiant en droit
       - Informations de base :
@@ -72,9 +71,19 @@ Le process est ici représenté par 8 trames
 ### PITCH
 > *Résumer l'idée en 1000 signes au max*
 
+VOILA :
 
 ![](https://78.media.tumblr.com/dd64a5cbf611c7908afbe1381dee7933/tumblr_orr7sjGkvi1u4knsco1_500.gif)
   
 - [YEAR OF SILENCE](https://www.youtube.com/watch?v=F2as7j0mK9I)
+
+
+
+
+### Arc Narratif : 
+
+
+Un monde vendeur de rêves est le marchand de sable idéal pour les naîf et les plus influençables, dans cette expérience on va apprendre à se découvrir en se libérant des entraves numériques.
+*héhéhéhéhéhéhéhéhéhé*
 
 
