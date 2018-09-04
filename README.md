@@ -10,8 +10,12 @@
 - => Se libérer *d'une meute*/d'un univers qui lie tout le monde et qui ne veut pas qu'on s'en détache
   - [**Détachement**,**Libération**,**Dépendance**, **Univers**]
 - => **ROAD TO SILENCE**
+
+
+
+
 ### NOTE D'INTENTION
-- *Fil conducteur du projet, cette note est appruvée par tous les membres de l'équipe*
+> *Fil conducteur du projet, cette note est appruvée par tous les membres de l'équipe*
 La deconnexion numérique est forcée, imposée ou est due à une démarche personnelle parsemée d'ambuches.
 - => Idée 1 : Se libérer *d'une meute*/d'un univers qui lie tout le monde et qui ne veut pas qu'on s'en détache.
 - => Idée 2 :  Humanoïd qui s'humanise, arrache ses connexion par étapes, retrouve ses 5 sens.
@@ -20,8 +24,6 @@ La deconnexion numérique est forcée, imposée ou est due à une démarche pers
 
 à la recherche de ses sens perdus, on tente de se libérer d'un univers qui refuse cette déconnexion.
 
-
-
 Le process est ici représenté par 8 trames
 ![](https://i.imgur.com/aEglXm3.png)
 - 1 : L'univers actuel
@@ -29,11 +31,12 @@ Le process est ici représenté par 8 trames
 - 3 à 7 : Sa libération 
 - 8 : Son objectif
 ### CONCEPT / ANGLE ET POINT DE VUE
-- *Orientation qu'on souhaite donner au projet*
-Orentientation => Culturelle, une expérience visuelle
-- *Motivation à aborder la problématique* => On dit souvent IRL
-- *Les références culturelles, sociales* => 
-Crystal Castles, un groupe qui éléctronise les dégueulasseries du monde numérique <sorry>
+> *Orientation qu'on souhaite donner au projet*
+- Orientation => Culturelle, une expérience visuelle
+> *Motivation à aborder la problématique*
+- 
+> *Les références culturelles, sociales* => 
+- Crystal Castles, un groupe qui éléctronise les dégueulasseries du monde numérique <sorry>
 ![](https://78.media.tumblr.com/728754849adef0adfdc08aa7b753c3b3/tumblr_oo7wwedGbF1s9nbw1o1_540.gif)
 - *contraintes* => Processing
 ### OBJECTIFS
