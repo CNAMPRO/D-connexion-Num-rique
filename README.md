@@ -48,7 +48,7 @@ Le process est ici représenté par 8 trames
   - Que l'utilisateur final : Prenne conscience de mon point de vue de l'univers numérique
 ### CIBLES:
 > *A qui on s'addresse, groupe of usesrs ou comportement d'users qu'on souhaite toucher*
-  - Aux addicts
+  - Aux enfants du numériques
 ### PITCH
 > *Résumer l'idée en 1000 signes au max*
   
