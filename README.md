@@ -41,6 +41,15 @@ Le process est ici représenté par 8 trames
 > *Les références culturelles, sociales* => 
 - Crystal Castles, un groupe qui éléctronise les dégueulasseries du monde numérique <sorry>
 ![](https://78.media.tumblr.com/728754849adef0adfdc08aa7b753c3b3/tumblr_oo7wwedGbF1s9nbw1o1_540.gif)
+  
+  
+- Un épisode de Black Mirror dans un monde futuriste qui ressemble beaucoup à l'ére actuelle, où tout le monde fait semblant d'être sympathique vis à vis des autres pour avoir une note sociale sur les réseaux sociaux.
+
+![](https://assets.rbl.ms/17081909/980x.jpg)
+
+
+
+
 - *contraintes* => Processing
 ### OBJECTIFS
 - *Objectif général du projet* => Sensibilisation
