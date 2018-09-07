@@ -132,6 +132,9 @@ Un monde vendeur de rêves est le marchand de sable idéal pour les naîf et les
 
 # APPROFONDISSEMENT DE L'HISTOIRE
 
+
+![](https://78.media.tumblr.com/2b462fe9deed121fd9b6b4f1bd32628a/tumblr_p02601wy0J1toamj8o1_500.gif)
+
 - Qui a développé ça  ?
     - Projet WWW lancé par Joel Kopdem, un activiste millionaire de 42 ans ayant fait fortune dans le BitCoin, suite à la perte de sa famille lors d'un accident de voiture où le chauffeur était sur son smartphone, il se décida à partir dans une campagne de sensibilisation pour faire prendre conscience aux usagers des dangers du monde numérique.
     Ce chauffeur est le seul à avoir survécu à ce drame. Ce dernier a refait sa vie et se retrouve très présent dans les réseaux sociaux, notament sur instagram où il pose quotidiennement des stories de sa propre personne entrain de conduire dangereusement.
