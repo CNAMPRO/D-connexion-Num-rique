@@ -61,39 +61,36 @@ Le process est ici représenté par 8 trames
   
   
     ![](http://www.iconninja.com/files/837/326/356/user-young-male-avatar-person-man-icon.png)
-    - Joel, étudiant en droit
+    - Sam, étudiant en droit
       - Informations de base :
         - Age : 20 ans
         - Situation familiale : Célibataire, sans enfant
-        - Centres d'interêt : Réseaux sociaux, jeux vidéos, pizza
-        - vit dans un hlm
-        - Traits de caractère : Accent du sud, qui dit peuneu et gadji et qui aime le RCT en disant tout le temps oh con et ma foi
+        - Centres d'interêt : Réseaux sociaux, jeux vidéos, pizza, courses de voitures
+        - vit en France dans une zone résidentielle
+        - Traits de caractère : Accent du sud
         - Relation à la technologie : 10/10 => Addicted
         - Il porte des adidas Vegan parce que c'est à la mode
       - Objectifs :
         - Augmenter ses likes sur Instagram
         - Augmenter ses relations sur LinkedIn
-        - Soigner son image numérique au maximum
+        - Soigner son image numérique au maximum et se faire connaître dans le milieu des courses automobiles
         - Trouver une copine sur Meetic
       - Découverte du projet :
         - Trailer en publicité sur Instagram
-        - Recherche de mots clés sur google
       - FREINS
         - Epileptique 
         - Trop sensible
+        - 
 ### PITCH
 > *Résumer l'idée en 1000 signes au max*
 
-C'est l'histoire d'une personne addict aux réseaux sociaux qui ne vit que par les interactions virtuelles de son personnage numérique et qui ne voit le jours que par nécéssité. Lors d'une routine sur ses réseaux sociaux il tombe sur une publicité <ou POST PROMOTIONNEL> qui le vise directement et c'est alors que pris de curiosité il s'interesse à ce contenu qui va l'amener à vivre une expérience numérique pour lui faire prendre conscience des dangers de son mode de vie.
+C'est l'histoire d'une personne addict aux réseaux sociaux qui ne vit que par les interactions virtuelles de son personnage numérique et qui ne voit le jours que par nécéssité. Lors d'une routine sur ses réseaux sociaux il tombe sur une publicité **ou POST PROMOTIONNEL** qui le vise directement et c'est alors que pris de curiosité il s'interesse à ce contenu qui va l'amener à vivre une expérience numérique pour lui faire prendre conscience des dangers de son mode de vie.
 Le post en question le redirige vers une application web, qui lui fait découvrir une expérience audio visuelle.
   
-
-VOILA :
 
 ![](https://78.media.tumblr.com/dd64a5cbf611c7908afbe1381dee7933/tumblr_orr7sjGkvi1u4knsco1_500.gif)
   
 - [YEAR OF SILENCE](https://www.youtube.com/watch?v=F2as7j0mK9I)
-
 
 
 
@@ -104,20 +101,13 @@ Un monde vendeur de rêves est le marchand de sable idéal pour les naîf et les
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Le_marchand_de_sable.jpg/220px-Le_marchand_de_sable.jpg)
 
-*héhéhéhéhéhéhéhéhéhé*
 
 
-1. Joel est sur Instagram à farmer les likes 
+1. Sam est sur Instagram à farmer les likes 
 2. Il tombe sur un post animé, sombre qui le vise directement ( ex:*HEY U SPENT 6H on INSTAGRAM TODAY, WHU U DO THIS?*)
 3. Il clique dessus et se retrouve sur le site hebergeant le project interactif
 4. Il lance le projet et se laisse emporter par les sons, les visuels et une simple ergonomie, il n'a qu'à suivre l'histoire
-5. A la fin de son expérience, il ressent une gène, s'abonne à notre compte instagram et achète potentiellement nos futurs produits derivés parce que c'est à la mode de ne plus être à la mode 
-
-![](https://pbs.twimg.com/profile_images/420671071143350273/Rl5-rGd1_400x400.jpeg)
-
-
-Beaucoup trop noir
-
+5. A la fin de son expérience, il prend conscience des dangers du numérique et peut eventuellement envisager une déconnexion progressive, sans pour autant se déconnecter complètement.
 
 
 ![](https://i.imgur.com/aEglXm3.png)
@@ -138,8 +128,7 @@ Beaucoup trop noir
 - Youtube channel : TrainingCode *Merci Kévin*
 
 
-# TODO
-
+# APPROFONDISSEMENT DE L'HISTOIRE
 
 - Qui a développé ça  ?
     - Projet WWW lancé par Joel Kopdem, un activiste millionaire de 42 ans ayant fait fortune dans le BitCoin, suite à la perte de sa famille lors d'un accident de voiture où le chauffeur était sur son smartphone, il se décida à partir dans une campagne de sensibilisation pour faire prendre conscience aux usagers des dangers du monde numérique.
@@ -150,7 +139,8 @@ Beaucoup trop noir
 - Comment affiner ses sens ? 
   - Joel Kopdem, cherche à en savoir plus sur l'humain, sur ce qu'il était et ce qu'il est devenu à cause du numérique, la regression continue des sens, les hommes qui voient de moins en moins bien, qui entendent de moins en moins et qui ne savent distinguer un bon whisky d'un label 5.
   Il tombe sur l'étude de Dylan Pavlovic qui tente des expériences et propose des exercices pour affiner ses 5 sens de la façon la plus simple et la plus effective possible.
-  => // TODO détailler
+
+
     - **Ouï** => Pour affiner son ouï il faut faire abstraction du bruit, se concentrer sur des timbres de voix précis et se laisser guider par leurs volonté.
     
     ![](https://i.imgur.com/hiWsCi7.png)
@@ -176,8 +166,3 @@ Beaucoup trop noir
    - **Toucher** 
   
     > **FROM TACTILE SMARTPHONE** TO **TACTILE PEOPLE**
-
-
-
-
-
