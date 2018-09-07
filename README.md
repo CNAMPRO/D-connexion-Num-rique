@@ -167,9 +167,11 @@ Beaucoup trop noir
     > **POLLUTION SICKNESS** => TO **NATURE FRESH AIR**
   
    - **Gout** :
-          **SCENE ALEXA FEEL AND TASTE FROM IOT** où une action suffira à afficher des couleurs saines représentant une redécouveurte des goûts 
-          
-          ![](https://78.media.tumblr.com/tumblr_m3zaih1z3S1r96gimo1_500.gif)
+
+
+       **SCENE ALEXA FEEL AND TASTE FROM IOT** où une action suffira à afficher des couleurs saines représentant une redécouveurte des goûts 
+       
+      ![](https://78.media.tumblr.com/tumblr_m3zaih1z3S1r96gimo1_500.gif)
           
    - **Toucher** 
   
