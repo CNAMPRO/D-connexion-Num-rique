@@ -152,7 +152,7 @@ Un monde vendeur de rêves est le marchand de sable idéal pour les naîf et les
     
     Une scène avec une mélodie très agréable à l'écoute recouverte de beaucoup de bruit qui camoufle cette mélodie, une action devra être nécessaire pour pouvoir écouter cette mélodie
     
-       - **ACTION :** Chaque bruit représente un média numérique (des sons de notifications messenger/Instagram/whatsap/random videos youtube/etc etc) en cliquant sur ces représentations de bruit, on éteint ce même bruit jusqu'à retrouver cette mélodie.
+     - **ACTION :** Chaque bruit représente un média numérique (des sons de notifications messenger/Instagram/whatsap/random videos youtube/etc etc) en cliquant sur ces représentations de bruit, on éteint ce même bruit jusqu'à retrouver cette mélodie.
      
      > Morale : Se déconnecter de certains médias pour réduir le bruit et retrouver une certaine douceur **BOITE MUSICALE ??**
     
@@ -161,18 +161,31 @@ Un monde vendeur de rêves est le marchand de sable idéal pour les naîf et les
     
     ![](https://i.imgur.com/rduoyt2.gif)    
     
-    - **ACTION :**  Avec les couleurs douces qu'on choisit, on construit petit à petit une image qui représente *fsdjlfkjdsklfjdsklfjdklsjfkdlsjflkdjslfdjkfldsjl UN TRUC PAISIBLE *
+    - **ACTION :**  Avec les couleurs douces qu'on choisit, on construit petit à petit une image qui représente [SOMETHING] // TODO
     
     
   - **Odorat** =>  Pour affiner son Odorat, il faut suivre cette odeur, le personnage est synesthéte, il représente les odeurs par des couleurs et devra suivre celle qui se déplace le plus lentement afin de l'amener vers une plaine loin des industries et de la pollution
 
     > **POLLUTION SICKNESS** => TO **NATURE FRESH AIR**
-  
-   - **Gout** :
+    
 
+___
+
+
+
+## FROM NOW TEMPO QUI S'ASSOMBRIT, C'EST MAINTENANT QU'IL DOIT ENCAISSER
+
+[AMBIANCE: POHJOLA'S DAUGHTER, OP 49] => Spotify
+
+
+
+
+   - **Gout** :
        **SCENE ALEXA FEEL AND TASTE FROM IOT** où une action suffira à afficher des couleurs saines représentant une redécouveurte des goûts 
-       
       ![](https://78.media.tumblr.com/tumblr_m3zaih1z3S1r96gimo1_500.gif)
+      
+    MCDONALDS, FAST, EASY, ALONE _______ WHERE ARE FRUITS, PEOPLE TO EAT WITH, FAMILY
+    
           
    - **Toucher** 
   
