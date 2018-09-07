@@ -117,7 +117,7 @@ Un monde vendeur de rêves est le marchand de sable idéal pour les naîf et les
 1. Début de l'expérience sur une application point and click très simpliste en 2D
 2. Le début est bruyant, coloré, vif
 3. Plusieurs étapes sont disponibles pour apaiser cette expérience, l'adoucir, se débarasser des nuisances
-5. On regagne son ouï, le son baisse et devient plus agréable
+5. On regagne son ouïe, le son baisse et devient plus agréable
 6. On regagne la vue, les couleurs s'adoucissent et l'univers s'éclaire
 7. On regagne son odorat, on respire, on sent des choses, => Mb représenter l'odorat par la synesthésie (ex Ratatouille)
 8. On regagne le gout, le mcdo fait place à une bonne viande (ouais je sais pas quoi mettre)
@@ -146,7 +146,7 @@ Un monde vendeur de rêves est le marchand de sable idéal pour les naîf et les
   Il tombe sur l'étude de Dylan Pavlovic qui tente des expériences et propose des exercices pour affiner ses 5 sens de la façon la plus simple et la plus effective possible.
 
 
-    - **Ouï** => Pour affiner son ouï il faut faire abstraction du bruit, se concentrer sur des timbres de voix précis et se laisser guider par leurs volonté.
+    - **Ouïe** => Pour affiner son ouï il faut faire abstraction du bruit, se concentrer sur des timbres de voix précis et se laisser guider par leurs volonté.
     
     ![](https://i.imgur.com/hiWsCi7.png)
     
@@ -154,22 +154,21 @@ Un monde vendeur de rêves est le marchand de sable idéal pour les naîf et les
     
     - **ACTION :** Chaque bruit représente un média numérique (des sons de notifications messenger/Instagram/whatsap/random videos youtube/etc etc) en cliquant sur ces représentations de bruit, on éteint ce même bruit jusqu'à retrouver cette mélodie.
      
-     > Morale : Se déconnecter de certains médias pour réduir le bruit et retrouver une certaine douceur
+     > Morale : Se déconnecter de certains médias pour réduir le bruit et retrouver une certaine douceur **BOITE MUSICALE ??**
     
     
-    
-    
-    - **Vue** => Pour affiner sa vue, il faut suivre la couleur de la force, la détâcher du reste et recommencer jusqu'à une scène avec beaucoup de nuisances visuelles, une action sera nécessaire avec les formes pour pouvoir afficher une oeuvre d'art **A VOIR si ce n'est pas simplement un dessin très sobre**
+    - **Vue** => Pour affiner sa vue, il faut suivre la couleur de la force, la détâcher du reste et recommencer jusqu'à une scène avec beaucoup de nuisances visuelles, une action sera nécessaire avec les formes pour pouvoir afficher un visuel  **A DEVELOPPER EN DESSOUS**
     
     ![](https://i.imgur.com/rduoyt2.gif)    
     
-
-  - **Odrat** =>  Pour affiner son Odorat, il faut suivre cette odeur, le personnage est synesthéte, il représente les odeurs par des couleurs et devra suivre celle qui se déplace le plus lentement afin de l'amener vers une plaine loin des industries et de la pollution
+    - **ACTION :**  Avec les couleurs douces qu'on choisit, on construit petit à petit une image qui représente *fsdjlfkjdsklfjdsklfjdklsjfkdlsjflkdjslfdjkfldsjl UN TRUC PAISIBLE *
+    
+    
+  - **Odorat** =>  Pour affiner son Odorat, il faut suivre cette odeur, le personnage est synesthéte, il représente les odeurs par des couleurs et devra suivre celle qui se déplace le plus lentement afin de l'amener vers une plaine loin des industries et de la pollution
 
     > **POLLUTION SICKNESS** => TO **NATURE FRESH AIR**
   
    - **Gout** :
-
 
        **SCENE ALEXA FEEL AND TASTE FROM IOT** où une action suffira à afficher des couleurs saines représentant une redécouveurte des goûts 
        
@@ -178,3 +177,12 @@ Un monde vendeur de rêves est le marchand de sable idéal pour les naîf et les
    - **Toucher** 
   
     > **FROM TACTILE SMARTPHONE** TO **TACTILE PEOPLE**
+    **ACTION :** Une représentation d'un personnage entouré de ballons gonflables représentant les Medias*(cf plus haut), le personnage est heureux et à chaque ballon explosé, son sourire s'inverse jusqu'à se retrouver seul dans le noir
+    
+    
+    TRANSITION VERS quelque chose du genre
+    
+    **YOU'RE NOT ALONE**
+    
+    **GO OUTSIDE**
+    
