@@ -157,11 +157,21 @@ Beaucoup trop noir
     
     Une scène avec une mélodie très agréable à l'écoute recouverte de beaucoup de bruit qui camoufle cette mélodie, une action devra être nécessaire pour pouvoir écouter cette mélodie
     
-    - **Vue** => Pour affiner sa vue, il faut suivre la couleur de la force, la détâcher du reste et recommencer jusqu'à => //TODO
+    - **Vue** => Pour affiner sa vue, il faut suivre la couleur de la force, la détâcher du reste et recommencer jusqu'à => 
+    ![][https://i.imgur.com/rduoyt2.gif)
+    Une scène avec beaucoup de nuisances visuelles, une action sera nécessaire avec les formes pour pouvoir afficher une oeuvre d'art <A VOIR si ce n'est pas simplement un dessin très sobre>
+    //TODO
     - **Odrat** =>  Pour affiner son Odorat, il faut suivre cette odeur, le personnage est synesthéte, il voit les couleurs et devra suivre celle qui se déplace le plus lentement 
-    - **Gout** =>
-    - **Toucher** => 
 
+<POLLUTION SICKNESS> => TO <NATURE FRESH AIR>
+  
+    - **Gout** =>
+    
+          <SCENE ALEXA FEEL AND TASTE FROM IOT> où une action suffira à afficher des couleurs saines représentant une redécouveurte des goûts 
+          ![](https://78.media.tumblr.com/tumblr_m3zaih1z3S1r96gimo1_500.gif)
+          
+    - **Toucher** => 
+    <FROM TACTILE SMARTPHONE> TO <TACTILE PEOPLE>
 
 
 
