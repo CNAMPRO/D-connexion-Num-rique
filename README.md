@@ -168,9 +168,7 @@ Un monde vendeur de rêves est le marchand de sable idéal pour les naîf et les
 
     > **POLLUTION SICKNESS** => TO **NATURE FRESH AIR**
     
-
 ___
-
 
 
 ## FROM NOW TEMPO QUI S'ASSOMBRIT, C'EST MAINTENANT QU'IL DOIT ENCAISSER
@@ -190,12 +188,12 @@ __
   
     > **FROM TACTILE SMARTPHONE** TO **TACTILE PEOPLE**
     
-   **ACTION :** Une représentation d'un personnage entouré de ballons gonflables représentant les Medias*(cf plus haut), le personnage est heureux et à chaque ballon explosé, son sourire s'inverse jusqu'à se retrouver seul dans le noir
-    
+   **ACTION :** Une représentation d'un personnage entouré de ballons gonflables représentant les Medias*(cf plus haut), le personnage est heureux et à chaque ballon explosé, son sourire s'inverse jusqu'à se retrouver seul dans le noir 
+   
+   **TROUVER UNE GO**
+   
+   AUTRE CHOSE !
     
   TRANSITION VERS quelque chose du genre
-    
    **YOU'RE NOT ALONE**
-    
    **GO OUTSIDE**
-    
