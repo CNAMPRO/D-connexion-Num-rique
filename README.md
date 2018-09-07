@@ -155,8 +155,10 @@ Beaucoup trop noir
     
     ![](https://i.imgur.com/hiWsCi7.png)
     
+    Une scène avec une mélodie très agréable à l'écoute recouverte de beaucoup de bruit qui camoufle cette mélodie, une action devra être nécessaire pour pouvoir écouter cette mélodie
+    
     - **Vue** => Pour affiner sa vue, il faut suivre la couleur de la force, la détâcher du reste et recommencer jusqu'à => //TODO
-    - **Odrat** =>  Pour affiner son Odorat, il faut suivre cette odeur, le personnage est synesthéte, il voit les couleurs et devra suivre celle qui se déplace le plus lentement
+    - **Odrat** =>  Pour affiner son Odorat, il faut suivre cette odeur, le personnage est synesthéte, il voit les couleurs et devra suivre celle qui se déplace le plus lentement 
     - **Gout** =>
     - **Toucher** => 
 
