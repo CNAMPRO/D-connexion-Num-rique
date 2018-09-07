@@ -151,7 +151,7 @@ Beaucoup trop noir
 # TODO 
 
 
-QUi a développé ça 
-comment affiner ses sens
+- Qui a développé ça 
+- comment affiner ses sens
 
 
