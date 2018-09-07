@@ -47,7 +47,9 @@ Le process est ici représenté par 8 trames
 ![](https://assets.rbl.ms/17081909/980x.jpg)
 
 
+- **Jus drein jus daun!** from THE 100 => Le sang sera vengé par le sang => Combattre les dangers du numérique par le numérique
 
+![](https://78.media.tumblr.com/a4526310d7ecf57c8b630fd64df956ab/tumblr_o74o1pg5xE1s1qyf6o1_500.gif)
 
 - *contraintes* => Processing
 ### OBJECTIFS
@@ -152,7 +154,7 @@ Un monde vendeur de rêves est le marchand de sable idéal pour les naîf et les
     ![](https://i.imgur.com/rduoyt2.gif)    
     
 
-  - **Odrat** =>  Pour affiner son Odorat, il faut suivre cette odeur, le personnage est synesthéte, il voit les couleurs et devra suivre celle qui se déplace le plus lentement 
+  - **Odrat** =>  Pour affiner son Odorat, il faut suivre cette odeur, le personnage est synesthéte, il représente les odeurs par des couleurs et devra suivre celle qui se déplace le plus lentement afin de l'amener vers une plaine loin des industries et de la pollution
 
     > **POLLUTION SICKNESS** => TO **NATURE FRESH AIR**
   
