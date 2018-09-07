@@ -83,6 +83,10 @@ Le process est ici représenté par 8 trames
 ### PITCH
 > *Résumer l'idée en 1000 signes au max*
 
+C'est l'histoire d'une personne addict aux réseaux sociaux qui ne vit que par les interactions virtuelles de son personnage numérique et qui ne voit le jours que par nécéssité. Lors d'une routine sur ses réseaux sociaux il tombe sur une publicité <ou POST PROMOTIONNEL> qui le vise directement et c'est alors que pris de curiosité il s'interesse à ce contenu qui va l'amener à vivre une expérience numérique pour lui faire prendre conscience des dangers de son mode de vie.
+Le post en question le redirige vers une application web, qui lui fait découvrir une expérience audio visuelle.
+  
+
 VOILA :
 
 ![](https://78.media.tumblr.com/dd64a5cbf611c7908afbe1381dee7933/tumblr_orr7sjGkvi1u4knsco1_500.gif)
@@ -106,7 +110,7 @@ Un monde vendeur de rêves est le marchand de sable idéal pour les naîf et les
 2. Il tombe sur un post animé, sombre qui le vise directement ( ex:*HEY U SPENT 6H on INSTAGRAM TODAY, WHU U DO THIS?*)
 3. Il clique dessus et se retrouve sur le site hebergeant le project interactif
 4. Il lance le projet et se laisse emporter par les sons, les visuels et une simple ergonomie, il n'a qu'à suivre l'histoire
-5. A la fin de son expérience, il ressent une gène, s'abonne à notre compte instagram et achète potentiellement nos futurs produits derivés parce que c'est à la mode de ne plus être à la mode cqfdme
+5. A la fin de son expérience, il ressent une gène, s'abonne à notre compte instagram et achète potentiellement nos futurs produits derivés parce que c'est à la mode de ne plus être à la mode 
 
 ![](https://pbs.twimg.com/profile_images/420671071143350273/Rl5-rGd1_400x400.jpeg)
 
@@ -125,7 +129,7 @@ Beaucoup trop noir
 7. On regagne son odorat, on respire, on sent des choses, => Mb représenter l'odorat par la synesthésie (ex Ratatouille)
 8. On regagne le gout, le mcdo fait place à une bonne viande (ouais je sais pas quoi mettre)
 9. On regagne le toucher, on est en contact avec une autre personne en dehors de la téchnologie, 
-10. Tout s'eclaircit et un message à la fin ( TODO )
+10. Tout s'eclaircit et un message à la fin ( //TODO )
 
 
 
