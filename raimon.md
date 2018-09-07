@@ -21,8 +21,12 @@ Changer la perception de la deconnexion chez l'utilisateur, que ce ne soit plus 
 - Les jeunes
 
 
-## 
-- Dans un premier temps on voit le personnage traverser plusieurs décors, fôret ?, montagne ?, lacs ?,  
+## Pitch
+- Dans un premier temps on voit le personnage, qui est un voyageur avec un casque audio, traverser plusieurs décors, fôret ?, montagne ?, lacs ?,
+- reconstruction de la musique, selon la musique construit le personnage voyage dans un décors.
+
+Le personnage, qui est un vayageur avec un casque audio, traverse plusieurs décors tel que la fôret, la montagne, cayon, desert, lacs, etc... Avec pour chaque décors son propre style de musique. Mais la musique va s'arreter une fois le personnage arrivé dans une ville aux technologie importante laissant place au bruit ambiant très bruyant. Le personnage erre lentement dans l'obscurité, on le voit avoir froid, déambuler dans une ruelle avec vue sur des fleurs fanées, des lignes électriques en hauteur qui disjonctent (arc électrique), de la fumée qui sort des egouts et des rats qui entrent dedans, des animaux qui mangent dans des poubelles on va donc reconstruire la musique afin de faire voyager le personnage dans ses souvenirs 
+
 Un homme seul qui marche sur un chemin en terre avec pour décors quelques maison sur les côtés et une musique ambiante simple et légère, on peut voir un grand champ au loin. Puis la musique devient de plus en plus lourde, des buildings s'installent partout dans les décors avec des panneaux publicitaires autour du personnage, la technologie remplit l'écran.Le personnage erre lentement dans l'obscurité, on le voit avoir froid, déambuler dans une ruelle avec vue sur des fleurs fanées, des lignes électriques en hauteur qui disjonctent (arc électrique), de la fumée qui sort des egouts et des rats qui entrent dedans, des animaux qui mangent dans des poubelles sur une musique lourde instrument à cordes pendant un temps infinie, jusqu'à ce que la musique s'intensifie et que le personnage court ( système de jeu de musique style OSU, plus on arrive à suivre le rythme plus la musique s'intensifie et plus le personnage se met à courir vite ) jusqu'au moment où le personnage arrive dans un cul de sac et saute dans un mur qui se brise, ce qui change le paysage, dans une plaine, très coloré avec des cerisiers japonais, des animaux qui passent à côté du personnage, heureux entrain de jouer entre eux, des oiseaux qui chantent en plus d'une musique entrainante avec des instruments à vent, le personnage ressent la chaleur du soleil, il est heureux et sourit.
 
 
