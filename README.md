@@ -175,27 +175,27 @@ ___
 
 ## FROM NOW TEMPO QUI S'ASSOMBRIT, C'EST MAINTENANT QU'IL DOIT ENCAISSER
 
-[AMBIANCE: POHJOLA'S DAUGHTER, OP 49] => Spotify
+**AMBIANCE: POHJOLA'S DAUGHTER, OP 49** => *Spotify*
 
-
+__
 
 
    - **Gout** :
        **SCENE ALEXA FEEL AND TASTE FROM IOT** où une action suffira à afficher des couleurs saines représentant une redécouveurte des goûts 
       ![](https://78.media.tumblr.com/tumblr_m3zaih1z3S1r96gimo1_500.gif)
       
-    MCDONALDS, FAST, EASY, ALONE _______ WHERE ARE FRUITS, PEOPLE TO EAT WITH, FAMILY
-    
+      MCDONALDS, FAST, EASY, ALONE / WHERE ARE FRUITS, PEOPLE TO EAT WITH, FAMILY
           
    - **Toucher** 
   
     > **FROM TACTILE SMARTPHONE** TO **TACTILE PEOPLE**
-    **ACTION :** Une représentation d'un personnage entouré de ballons gonflables représentant les Medias*(cf plus haut), le personnage est heureux et à chaque ballon explosé, son sourire s'inverse jusqu'à se retrouver seul dans le noir
+    
+   **ACTION :** Une représentation d'un personnage entouré de ballons gonflables représentant les Medias*(cf plus haut), le personnage est heureux et à chaque ballon explosé, son sourire s'inverse jusqu'à se retrouver seul dans le noir
     
     
-    TRANSITION VERS quelque chose du genre
+  TRANSITION VERS quelque chose du genre
     
-    **YOU'RE NOT ALONE**
+   **YOU'RE NOT ALONE**
     
-    **GO OUTSIDE**
+   **GO OUTSIDE**
     
