@@ -3,7 +3,7 @@
 
 ## Note d'intention
 
-Angoisser mon utilisateur par la musique, le décors, les animations, pour qu'il se projette dans mon personnage afin de vivre l'histoire, vivre la deconnexion afin que lui même ressente le bonheur du personnage.
+Amener mon utilisateur par la musique, le décors, les animations, pour qu'il se projette dans mon personnage afin de vivre l'histoire, vivre la deconnexion afin que lui même ressente le bonheur du personnage.
 
 ## Concept / Angle et point de vue
 
