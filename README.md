@@ -134,29 +134,31 @@ Beaucoup trop noir
 
 
 
-
-
-
-
-
-
-
-
-
 ### RESSOURCES : 
 - Youtube channel : TrainingCode *Merci Kévin*
 
 
-
-# TODO 
-
-
-- Qui a développé ça 
-> Incoming
+# TODO
 
 
+- Qui a développé ça  ?
+    - Projet WWW lancé par Joel Kopdem, un activiste millionaire de 42 ans ayant fait fortune dans le BitCoin, suite à la perte de sa famille lors d'un accident de voiture où le chauffeur était sur son smartphone, il se décida à partir dans une campagne de sensibilisation pour faire prendre conscience aux usagers des dangers du monde numérique.
+    Ce chauffeur est le seul à avoir survécu à ce drame. Ce dernier a refait sa vie et se retrouve très présent dans les réseaux sociaux, notament sur instagram où il pose quotidiennement des stories de sa propre personne entrain de conduire dangereusement.
+    Joel passe ses journées à tracker ce chauffeur, à répertorier chacun de ses déplacement, chacun de ses viewers et personnes qu'il fréquente. Il les répertorie, les catégorise en fait des statisques. Grâce à ces dernières, il finance des disaines de campagnes sur les réseaux sociaux visant à cibler ces personnes pour les sensibiliser au travers de son projet expérimental.
 
-- Comment affiner ses sens
-> Je vais créer cette étude
+
+- Comment affiner ses sens ? 
+  - Joel Kopdem, cherche à en savoir plus sur l'humain, sur ce qu'il était et ce qu'il est devenu à cause du numérique, la regression continue des sens, les hommes qui voient de moins en moins bien, qui entendent de moins en moins et qui ne savent distinguer un bon whisky d'un label 5.
+  Il tombe sur l'étude de Dylan Pavlovic qui va
+  => // TODO détailler
+    - Ouï 
+    - Vue
+    - Odrat
+    - Gout
+    - Toucher
+
+
+
+
 
 
