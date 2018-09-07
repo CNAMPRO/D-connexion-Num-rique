@@ -149,11 +149,11 @@ Beaucoup trop noir
 
 - Comment affiner ses sens ? 
   - Joel Kopdem, cherche à en savoir plus sur l'humain, sur ce qu'il était et ce qu'il est devenu à cause du numérique, la regression continue des sens, les hommes qui voient de moins en moins bien, qui entendent de moins en moins et qui ne savent distinguer un bon whisky d'un label 5.
-  Il tombe sur l'étude de Dylan Pavlovic qui va
+  Il tombe sur l'étude de Dylan Pavlovic qui tente des expériences et propose des exercices pour affiner ses 5 sens de la façon la plus simple et la plus effective possible.
   => // TODO détailler
-    - Ouï 
-    - Vue
-    - Odrat
+    -**Ouï** => Pour affiner son ouï il faut faire abstraction du bruit, se concentrer sur des timbres de voix précis et se laisser guider par leurs volonté.
+    - Vue => Pour affiner sa vue, il faut suivre la couleur de la force, la détâcher du reste et recommencer jusqu'à => //TODO
+    - Odrat =>  Pour affiner son Odorat, il faut suivre cette odeur, le personnage est synesthéte, il voit les couleurs et devra suivre celle qui se déplace le plus lentement
     - Gout
     - Toucher
 
