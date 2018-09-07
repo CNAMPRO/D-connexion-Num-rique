@@ -152,6 +152,13 @@ Un monde vendeur de rêves est le marchand de sable idéal pour les naîf et les
     
     Une scène avec une mélodie très agréable à l'écoute recouverte de beaucoup de bruit qui camoufle cette mélodie, une action devra être nécessaire pour pouvoir écouter cette mélodie
     
+    - **ACTION :** Chaque bruit représente un média numérique (des sons de notifications messenger/Instagram/whatsap/random videos youtube/etc etc) en cliquant sur ces représentations de bruit, on éteint ce même bruit jusqu'à retrouver cette mélodie.
+     
+     > Morale : Se déconnecter de certains médias pour réduir le bruit et retrouver une certaine douceur
+    
+    
+    
+    
     - **Vue** => Pour affiner sa vue, il faut suivre la couleur de la force, la détâcher du reste et recommencer jusqu'à une scène avec beaucoup de nuisances visuelles, une action sera nécessaire avec les formes pour pouvoir afficher une oeuvre d'art **A VOIR si ce n'est pas simplement un dessin très sobre**
     
     ![](https://i.imgur.com/rduoyt2.gif)    
