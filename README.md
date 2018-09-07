@@ -1,6 +1,3 @@
-Qu'est ce que la déconnexion numérique ? par un qqn de chelou
-
-
 # Déconnexion numérique
 ![](https://static1.squarespace.com/static/4ff36a2b84aecc34311d0e6c/t/5b5ca9021ae6cf84852027e4/1532799254230/techno-slaves.jpg)
 
