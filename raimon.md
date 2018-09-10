@@ -8,26 +8,39 @@ Amener mon utilisateur par la musique, le décors, les animations, pour qu'il se
 ## Concept / Angle et point de vue
 
 Motivation : création audio-visuel
-référence culturelles, sociales : Pierre et le loup, actualités,jeux musique
+référence culturelles, sociales : Pierre et le loup, actualités,jeux musique (Osu, Elite Beat Agents)
 
 ## Objectifs 
 
-faire ressentir les émotions de la deconnexion.
-Changer la perception de la deconnexion chez l'utilisateur, que ce ne soit plus quelque chose de négatif.
+faire ressentir les émotions de la deconnexion par la musique.
+Changer la perception de la deconnexion chez l'utilisateur afin que celle ci ne soit pas quelque chose de négatif.
+Amuser l'utilisateur par le biais du jeu de rythme
 
 ## Cibles
 
 - Les utilisateurs fréquent du numérique
 - Les jeunes
+- Les fans de musiques
+- Les joueurs de jeux de rythme
 
 
 ## Pitch
-- Dans un premier temps on voit le personnage, qui est un voyageur avec un casque audio, traverser plusieurs décors, fôret ?, montagne ?, lacs ?,
-- reconstruction de la musique, selon la musique construit le personnage voyage dans un décors.
 
-Le personnage, qui est un vayageur avec un casque audio, traverse plusieurs décors tel que la fôret, la montagne, cayon, desert, lacs, etc... Avec pour chaque décors son propre style de musique. Mais la musique va s'arreter une fois le personnage arrivé dans une ville aux technologie importante laissant place au bruit ambiant très bruyant. Le personnage erre lentement dans l'obscurité, on le voit avoir froid, déambuler dans une ruelle avec vue sur des fleurs fanées, des lignes électriques en hauteur qui disjonctent (arc électrique), de la fumée qui sort des egouts et des rats qui entrent dedans, des animaux qui mangent dans des poubelles on va donc reconstruire la musique afin de faire voyager le personnage dans ses souvenirs 
+Notre personnage Mike, qui n'est autre qu'un mystérieux voyageur avec un casque audio, se trouve avec la capacité de voyager à travers le temps et l'espace grâce à la musique qu'il écoute. Ce don que lui seul sembler posséder, a été découvert durant son adolescence par ses propres moyens, ce fut pénible et exténuant mais il finit par maitriser ce don et à voyager comme bon lui semble. On le voit notamment traverser plusieurs décors tels que la forêt, la montagne, une vieille ville, un cayon, un desert, un lac, etc... 
 
-Un homme seul qui marche sur un chemin en terre avec pour décors quelques maison sur les côtés et une musique ambiante simple et légère, on peut voir un grand champ au loin. Puis la musique devient de plus en plus lourde, des buildings s'installent partout dans les décors avec des panneaux publicitaires autour du personnage, la technologie remplit l'écran.Le personnage erre lentement dans l'obscurité, on le voit avoir froid, déambuler dans une ruelle avec vue sur des fleurs fanées, des lignes électriques en hauteur qui disjonctent (arc électrique), de la fumée qui sort des egouts et des rats qui entrent dedans, des animaux qui mangent dans des poubelles sur une musique lourde instrument à cordes pendant un temps infinie, jusqu'à ce que la musique s'intensifie et que le personnage court ( système de jeu de musique style OSU, plus on arrive à suivre le rythme plus la musique s'intensifie et plus le personnage se met à courir vite ) jusqu'au moment où le personnage arrive dans un cul de sac et saute dans un mur qui se brise, ce qui change le paysage, dans une plaine, très coloré avec des cerisiers japonais, des animaux qui passent à côté du personnage, heureux entrain de jouer entre eux, des oiseaux qui chantent en plus d'une musique entrainante avec des instruments à vent, le personnage ressent la chaleur du soleil, il est heureux et sourit.
+<img align="left" src="https://image.noelshack.com/fichiers/2018/37/2/1536619225-demo-04-1.jpg" alt="drawing" width="200"/>
+<img align="left" src="https://image.noelshack.com/fichiers/2018/37/2/1536619777-thumb-1920-603966.png" alt="drawing" width="200"/>
+<img align="left" src="https://image.noelshack.com/fichiers/2018/37/2/1536619709-ori-and-the-blind-forest-2014-08-12-14-004.jpg" alt="drawing" width="200"/>
+<img align="left" src="https://image.noelshack.com/fichiers/2018/37/2/1536619501-05d8b230234015-56197d97df76d.png" alt="drawing" width="200"/>
+<img align="left" src="https://image.noelshack.com/fichiers/2018/37/2/1536619250-gqdhzfs-09qm5otjhso0ewr9b0m8rplz-unxjv7jcy4.jpg" alt="drawing" width="200"/>
+
+Avec pour chaque décors son propre style de musique.
+Mais l'histoire de Mike se passe dans le futur, il habite dans une ville cybernétique, où tout le monde est cyberdépendant, personne dans les rues, toute personne est connectée depuis chez lui à un monde virtuel, on peut l'apercevoir déambulant dans la rue qui semble plongé dans l'obscurité et abandonné, comme si personne ne s'occuper de l'état des lieux. Mike, qui lui-même à une époque était dépendant de cette technologie et l'est encore, mais a appris à voir le monde d'une différente manière et ne pas rester connecté ad vitam aeternam.
+Mike exaspéré par la vue de sa ville décide de repartir voyager, c'est là que l'utilisateur intervient, il choisit parmis une liste de destination un voyage à poursuivre, chaque voyage à son propre style de musique, une fois un voyage lancé, l'utilisateur se retrouve lancé dans un jeu de rythme qui le transporte tel Mike le voyageur. Un jeu de rythme tel que Osu : 
+
+![Alt Text](https://media.giphy.com/media/da2DK2btVQ7sc/giphy.gif)
+
+A la fin de chaque voyage, Mike se retrouve dans sa ville et on retombe à la selection d'une destination.
 
 
 ***
@@ -47,12 +60,11 @@ Un homme seul qui marche sur un chemin en terre avec pour décors quelques maiso
 - Sur les réseaux sociaux, il clique sur un article en relation avec la deconnexion du numérique
 
 ## Chemin vers l'objectif
-- Il découvre publicité interactive et commence à s'intéresser par le contenu.
-- Il se retrouve absorbé par la musique, l'ambiance de cette histoire qui le touche 
-- Il ressent un besoin de se déconnecter afin de se poser des questions.  
+- Il découvre une publicité de l'application et commence à s'intéresser au contenu.
+- Il se retrouve absorbé par la musique, l'ambiance de cette histoire qui le touche.  
 
 ## Motivations 
-- j'aimerais comprendre ce que me déconnecter pourrait m'apporter.
+- j'aimerais comprendre ce que me déconnecter pourrait m'apporter dans la vie.
 
 ## Freins
 - Musique insupportable
@@ -60,16 +72,17 @@ Un homme seul qui marche sur un chemin en terre avec pour décors quelques maiso
 - Trop sombre
 - Trop superficiel
 - Pas assez de fond
+- Difficulté trop élevée
 
 ***
 
 # Arches narratives
 
 ## Situation Initale
-Personnage qui marche dans la rue normalement sans aucune gène, avec un décor simple quelque maison, un champ, musique ambiante légère
+On retrouve Mike qui voyage à divers endroits de la planète, possédant chacun leur propre style musical.
 ## Intrigue/ Elément perturbateur 
-La musique devient lourde, le champ se remplit de building avec des panneaux publicitaires de tous les côtés jusqu'à remplir les décors laissant juste place à une rue où le personnage s'avance lentement en titubant, les bras battant
+Notre personnage se retrouve dans sa ville natale, assiégé par la technologie où toute la population est devenue cyberdépendant. Il se retrouve seul dans la rue à déambuler en attente d'une nouvelle destination. Une fois la destination sélectionné par l'utilisateur, Mike commence son voyage et le jeu de rythme peut commencer.
 ## Eléménts de résolution 
-l'utilisateur est amené à cliquer au bon endroit et en rythme avec la musique qui va s'intensifier s'il réussit, plus il réussit, plus le personnage se met à courir jusqu'à ce que le personnage arrive dans un cul de sac et saute à pleine vitesse dans le mur
+L'utilisateur réussit le jeu de rythme ou alors l'utilisateur perd le jeu de rythme, plus il rate de notes et plus il a de chance de se faire rattraper par la technologie et donc de se retrouver dans cette fameuse ville.
 ## Situation finale
-le personnage à cassé le mur et se retrouve dans une plaine 
+Mike se retrouve de nouveau dans sa ville natale, il peut alors une nouvelle fois choisir une nouvelle destination afin de continuer osn périble.
