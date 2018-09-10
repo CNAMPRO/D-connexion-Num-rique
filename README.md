@@ -9,7 +9,7 @@
 
 - => Humanoïd qui s'humanise, arrache ses connexion par étapes, retrouve ses 5 sens 
   - [**Transformation**,**Sortie**, **Connexions**]
-- => Se libérer *d'une meute*/d'un univers qui lie tout le monde et qui ne veut pas qu'on s'en détache
+- => Se libérer *d'une meute*/d'un univers quhttp://82.165.36.156:81/redmine/projects/ipjc/issuesi lie tout le monde et qui ne veut pas qu'on s'en détache
   - [**Détachement**,**Libération**,**Dépendance**, **Univers**]
 - => **ROAD TO SILENCE**
 
@@ -197,6 +197,10 @@ __
 
 ## RESOURCES :
 
+Game Engine  => GODOT, UNITY, Processing 
 
 
-Game Engine  => GODOT
+
+- **Godot** : Gratuit, Open Source, workflow scenes/nodes est plus intuitif que les prefab d'unity, shaders + faciles, Animations pas terribles
+- **Unity** : Version free suffisante, communauté gigantesque, beaucoup d'assets gratuits disponibles
+- **Processing** : Beaucoup de choses à réinventer, moins poussé graphiquement 
