@@ -59,28 +59,30 @@ Le process est ici représenté par 8 trames
   ### PERSONAS 
   
    ![](http://www.iconninja.com/files/837/326/356/user-young-male-avatar-person-man-icon.png)
+   
     - Sam, étudiant en droit
       - Informations de base :
-        - Age : 20 ans
-        - Situation familiale : Célibataire, sans enfant
-        - Centres d'interêt : Réseaux sociaux, jeux vidéos, pizza, courses de voitures
-        - vit en France dans une zone résidentielle
-        - Traits de caractère : Accent du sud
-        - Relation à la technologie : 10/10 => Addicted
-        - Il porte des adidas Vegan parce que c'est à la mode
+          - Age : 20 ans
+          - Situation familiale : Célibataire, sans enfant
+          - Centres d'interêt : Réseaux sociaux, jeux vidéos, pizza, courses de voitures
+          - vit en France dans une zone résidentielle
+          - Traits de caractère : Accent du sud
+          - Relation à la technologie : 10/10 => Addicted
+          - Il porte des adidas Vegan parce que c'est à la mode
       - Objectifs :
-        - Augmenter ses likes sur Instagram
-        - Augmenter ses relations sur LinkedIn
-        - Soigner son image numérique au maximum et se faire connaître dans le milieu des courses automobiles
-        - Trouver une copine sur Meetic
-      - Découverte du projet :
-        - Trailer en publicité sur Instagram
+          - Augmenter ses likes sur Instagram
+          - Augmenter ses relations sur LinkedIn
+          - Soigner son image numérique au maximum et se faire connaître dans le milieu des courses automobiles
+          - Trouver une copine sur Meetic
+          - Découverte du projet :
+            - Trailer en publicité sur Instagram
       - FREINS
         - Epileptique 
         - Trop sensible
 
 
    ![](http://bb-bau.com/images/avatar.png)
+   
     - Virginie, manager dans une start-up
       - Informations de base :
         - Age : 28 ans
