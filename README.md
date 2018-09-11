@@ -80,7 +80,7 @@ Le process est ici représenté par 8 trames
         - Trop sensible
 
 
-   ![](http://www.iconninja.com/files/837/326/356/user-young-male-avatar-person-man-icon.png)
+   ![](http://bb-bau.com/images/avatar.png)
     - Virginie, manager dans une start-up
       - Informations de base :
         - Age : 28 ans
@@ -138,6 +138,7 @@ En ressort de cette étude ces différents exercices :
   > **ACTION** : Des formes vont se déplacer sur la scène, il faudra faire preuve de patience et d'une certaine concentration pour déceler ce qui est le plus important, ralentir pour vivre.
   
   - **Gout** : Comme dans une scène du film Ratatouille, lorsque ce dernier mange des aliments il les représente par des formes et des couleurs différentes. 
+  
       ![](https://78.media.tumblr.com/tumblr_m3zaih1z3S1r96gimo1_500.gif)
       
   > **ACTION** : / WORK IN PROGRESS /  sauver les fruits et légumes, nous avançons dans le temps et les avancées technologiques permettent aux hommes de se suffir de quelques pilules car nous avons épuisé toutes les ressources naturelles de notre planète. 
