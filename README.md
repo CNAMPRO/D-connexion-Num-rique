@@ -140,9 +140,8 @@ En ressort de cette étude ces différents exercices :
   - **Gout** : Comme dans une scène du film Ratatouille, lorsque ce dernier mange des aliments il les représente par des formes et des couleurs différentes. 
       ![](https://78.media.tumblr.com/tumblr_m3zaih1z3S1r96gimo1_500.gif)
       
-  > **ACTION** : Nos aliments
+  > **ACTION** : / WORK IN PROGRESS /  sauver les fruits et légumes, nous avançons dans le temps et les avancées technologiques permettent aux hommes de se suffir de quelques pilules car nous avons épuisé toutes les ressources naturelles de notre planète. 
   
-          
    - **Toucher** 
     > FROM TACTILE SMARTPHONE TO TACTILE PEOPLE  
    **ACTION :** Une représentation d'un personnage entouré de ballons gonflables représentant les Medias*(cf plus haut), le personnage est heureux et à chaque ballon explosé, son sourire s'inverse jusqu'à se retrouver seul dans le noir 
