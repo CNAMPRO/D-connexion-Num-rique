@@ -127,15 +127,29 @@ En ressort de cette étude ces différents exercices :
     - **Ouïe** => Pour affiner son ouï il faut faire abstraction du bruit, se concentrer sur des timbres de voix précis et se laisser guider par leurs volonté.
     ![](https://i.imgur.com/hiWsCi7.png)
     Une scène avec une mélodie très agréable à l'écoute recouverte de beaucoup de bruit qui camoufle cette mélodie, une action devra être nécessaire pour pouvoir écouter cette mélodie
-     - **ACTION :** Chaque bruit représente un média numérique (des sons de notifications messenger/Instagram/whatsap/random videos youtube/etc etc) en cliquant sur ces représentations de bruit, on éteint ce même bruit jusqu'à retrouver cette mélodie.
-     > Morale : Se déconnecter de certains médias pour réduir le bruit et retrouver une certaine douceur **BOITE MUSICALE ??**
-    - **Vue** => Pour affiner sa vue, il faut suivre la couleur de la force, la détâcher du reste et recommencer jusqu'à une scène avec beaucoup de nuisances visuelles, une action sera nécessaire avec les formes pour pouvoir afficher un visuel  **A DEVELOPPER EN DESSOUS**
+     > **ACTION :** Chaque bruit représente un média numérique (des sons de notifications messenger/Instagram/whatsap/random videos youtube/etc etc) en cliquant sur ces représentations de bruit, on éteint ce même bruit jusqu'à retrouver cette mélodie.
+     >**Morale** : Se déconnecter de certains médias pour réduir le bruit et retrouver une certaine douceur comme le fait de voir une certaine boite musicale apparaître émanant d'elle une douce mélodie qui peut potentiellement rappeler beaucoup de souvenirs d'enfances à certaines peersonne.
+    - **Vue** => Pour affiner sa vue, il faut suivre la couleur de la force, la détâcher du reste et recommencer jusqu'à une scène avec beaucoup de nuisances visuelles, une action sera nécessaire avec les formes pour pouvoir afficher un visuel
     ![](https://i.imgur.com/rduoyt2.gif)    
-    - **ACTION :**  Avec les couleurs douces qu'on choisit, on construit petit à petit une image qui représente [SOMETHING] // TODO
-  - **Odorat** =>  Pour affiner son Odorat, il faut suivre cette odeur, le personnage est synesthéte, il représente les odeurs par des couleurs et devra suivre celle qui se déplace le plus lentement afin de l'amener vers une plaine loin des industries et de la pollution
-
-    > **POLLUTION SICKNESS** => TO **NATURE FRESH AIR**
+    > **ACTION :**  Avec les couleurs douces qu'on choisit, on construit petit à petit une image qui représente les choix que l'on aura fait.
+    Chaque couleur présente a un code particulier, et selon l'ordre avec lequel le choix des couleurs sera fait une représentation différente sera affichée.
     
+  - **Odorat** =>  Pour affiner son Odorat, il faut suivre cette odeur, le personnage est synesthéte, il représente les odeurs par des couleurs et devra suivre celle qui se déplace le plus lentement afin de l'amener vers une plaine loin des industries et de la pollution
+  > **ACTION** : Des formes vont se déplacer sur la scène, il faudra faire preuve de patience et d'une certaine concentration pour déceler ce qui est le plus important, ralentir pour vivre.
+  
+  - **Gout** : Comme dans une scène du film Ratatouille, lorsque ce dernier mange des aliments il les représente par des formes et des couleurs différentes. 
+      ![](https://78.media.tumblr.com/tumblr_m3zaih1z3S1r96gimo1_500.gif)
+      
+  > **ACTION** : Nos aliments
+  
+          
+   - **Toucher** 
+    > FROM TACTILE SMARTPHONE TO TACTILE PEOPLE  
+   **ACTION :** Une représentation d'un personnage entouré de ballons gonflables représentant les Medias*(cf plus haut), le personnage est heureux et à chaque ballon explosé, son sourire s'inverse jusqu'à se retrouver seul dans le noir 
+  TRANSITION VERS quelque chose du genre
+   **YOU'RE NOT ALONE**
+   **GO OUTSIDE**
+
   
 ## ARCHES NARRATIVES : 
 
@@ -166,43 +180,6 @@ Un monde vendeur de rêves est le marchand de sable idéal pour les naîf et les
 10. Tout s'eclaircit et un message à la fin 
 
 
-
-### RESSOURCES : 
-- Youtube channel : TrainingCode *Merci Kévin*
-
-
-# APPROFONDISSEMENT DE L'HISTOIRE
-
-
-
-    
-___
-
-
-## FROM NOW TEMPO QUI S'ASSOMBRIT, C'EST MAINTENANT QU'IL DOIT ENCAISSER
-
-**AMBIANCE: POHJOLA'S DAUGHTER, OP 49** => *Spotify*
-
-__
-
-
-   - **Gout** :
-       **SCENE ALEXA FEEL AND TASTE FROM IOT** où une action suffira à afficher des couleurs saines représentant une redécouveurte des goûts 
-      ![](https://78.media.tumblr.com/tumblr_m3zaih1z3S1r96gimo1_500.gif)
-      
-      MCDONALDS, FAST, EASY, ALONE / WHERE ARE FRUITS, PEOPLE TO EAT WITH, FAMILY
-          
-   - **Toucher** 
-  
-    > FROM TACTILE SMARTPHONE TO TACTILE PEOPLE
-    
-   **ACTION :** Une représentation d'un personnage entouré de ballons gonflables représentant les Medias*(cf plus haut), le personnage est heureux et à chaque ballon explosé, son sourire s'inverse jusqu'à se retrouver seul dans le noir 
-
-  TRANSITION VERS quelque chose du genre
-   **YOU'RE NOT ALONE**
-   **GO OUTSIDE**
-
-
 # Annexe
 
 ## Raisonnement 
@@ -224,10 +201,13 @@ __
 
 
 
-## RESOURCES :
+### RESOURCES :
 
-Game Engine  => GODOT, UNITY, Processing 
+- Youtube channel : TrainingCode *Merci Kévin*
+- Game Engine  => GODOT, UNITY, Processing 
 
 - **Godot** : Gratuit, Open Source, workflow scenes/nodes est plus intuitif que les prefab d'unity, shaders + faciles, Animations pas terribles
 - **Unity** : Version free suffisante, communauté gigantesque, beaucoup d'assets gratuits disponibles
 - **Processing** : Beaucoup de choses à réinventer, moins poussé graphiquement 
+
+
