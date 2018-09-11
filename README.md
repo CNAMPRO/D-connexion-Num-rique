@@ -3,17 +3,6 @@
 
 # Déconnexion numérique
 ![](https://i.imgur.com/3iV0mk3.gif)
-### Brainstorming
-- Déconnexion => Libération, détachement, sortie, *RUPTURE*, Noir => *lumière*, transformation, ralentissement *low tempo*, 
-- Numérique => Bulle, vaste univers, connexions, *dépendance*, couleurs vives
-
-- => Humanoïd qui s'humanise, arrache ses connexion par étapes, retrouve ses 5 sens 
-  - [**Transformation**,**Sortie**, **Connexions**]
-- => Se libérer *d'une meute*/d'un univers quhttp://82.165.36.156:81/redmine/projects/ipjc/issuesi lie tout le monde et qui ne veut pas qu'on s'en détache
-  - [**Détachement**,**Libération**,**Dépendance**, **Univers**]
-- => **ROAD TO SILENCE**
-
-
 
 
 ### NOTE D'INTENTION
@@ -195,11 +184,26 @@ __
    **GO OUTSIDE**
 
 
+# Annexe
+
+## Raisonnement 
+
+### Brainstorming
+- Déconnexion => Libération, détachement, sortie, *RUPTURE*, Noir => *lumière*, transformation, ralentissement *low tempo*, 
+- Numérique => Bulle, vaste univers, connexions, *dépendance*, couleurs vives
+
+- => Humanoïd qui s'humanise, arrache ses connexion par étapes, retrouve ses 5 sens 
+  - [**Transformation**,**Sortie**, **Connexions**]
+- => Se libérer *d'une meute*/d'un univers quhttp://82.165.36.156:81/redmine/projects/ipjc/issuesi lie tout le monde et qui ne veut pas qu'on s'en détache
+  - [**Détachement**,**Libération**,**Dépendance**, **Univers**]
+- => **ROAD TO SILENCE**
+
+
+
+
 ## RESOURCES :
 
 Game Engine  => GODOT, UNITY, Processing 
-
-
 
 - **Godot** : Gratuit, Open Source, workflow scenes/nodes est plus intuitif que les prefab d'unity, shaders + faciles, Animations pas terribles
 - **Unity** : Version free suffisante, communauté gigantesque, beaucoup d'assets gratuits disponibles
