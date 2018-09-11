@@ -192,7 +192,7 @@ Un monde vendeur de rêves est le marchand de sable idéal pour les naîf et les
 
 - => Humanoïd qui s'humanise, arrache ses connexion par étapes, retrouve ses 5 sens 
   - [**Transformation**,**Sortie**, **Connexions**]
-- => Se libérer *d'une meute*/d'un univers quhttp://82.165.36.156:81/redmine/projects/ipjc/issuesi lie tout le monde et qui ne veut pas qu'on s'en détache
+- => Se libérer *d'une meute*/d'un univers qui lie tout le monde et qui ne veut pas qu'on s'en détache
   - [**Détachement**,**Libération**,**Dépendance**, **Univers**]
 - => **ROAD TO SILENCE**
 
