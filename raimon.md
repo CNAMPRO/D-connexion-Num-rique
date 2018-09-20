@@ -86,3 +86,12 @@ Notre personnage se retrouve dans sa ville natale, assiégé par la technologie 
 L'utilisateur réussit le jeu de rythme ou alors l'utilisateur perd le jeu de rythme, plus il rate de notes et plus il a de chance de se faire rattraper par la technologie et donc de se retrouver dans cette fameuse ville.
 ## Situation finale
 Mike se retrouve de nouveau dans sa ville natale, il peut alors une nouvelle fois choisir une nouvelle destination afin de continuer osn périble.
+
+
+### Définir les objectifs
+
+## Délimiter le périmètre
+## Identifier les sources d'information
+## Mettre en place le dispositif de surveillance
+## Traiter, Analyser, Capitaliser les informations recueillies
+## Diffuser, utiliser, Partager
