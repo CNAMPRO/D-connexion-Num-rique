@@ -39,9 +39,9 @@ Pouvoir faire une application d’écoute de musique et aussi expliquer ce que r
 
 <img align="left" src="https://i.ytimg.com/vi/h4x9hgrPUiQ/maxresdefault.jpg" alt="drawing" width="200" height="100"/>
   
-  <img  src="https://camo.githubusercontent.com/b40783502e8f644e972ad8e9532b039d0f4d304d/687474703a2f2f7265732e636c6f7564696e6172792e636f6d2f64766b7866677072632f696d6167652f75706c6f61642f76313531313236343138392f67697068795f325f6568696434762e676966" width="200" height="100" />
+  <img align="left" src="https://camo.githubusercontent.com/b40783502e8f644e972ad8e9532b039d0f4d304d/687474703a2f2f7265732e636c6f7564696e6172792e636f6d2f64766b7866677072632f696d6167652f75706c6f61642f76313531313236343138392f67697068795f325f6568696434762e676966" width="200" height="100" />
 
-<img align="left" src="http://blog.motionisland.com/wp-content/uploads/2018/04/after-effects-round-audio-spectrum.gif" width="200" height="100" />
+<img  src="http://blog.motionisland.com/wp-content/uploads/2018/04/after-effects-round-audio-spectrum.gif" width="200" height="100" />
 
 
 
@@ -51,29 +51,29 @@ Pouvoir faire une application d’écoute de musique et aussi expliquer ce que r
 - **Prénom :** Julien
 - **Age :** 21 ans
 - **Situation familiale :** Célibataire, sans enfant
-- **Profession :** Développeur dans une startup
+- **Profession :** Etudiant
 - **Centre d'interet :** technologie, musique
-- **Journée type :** Code toute la journée et regarde les nouvelles technologies après le travail
+- **Journée type :** Etudie toute la journée et travaille après les cours chez lui en écoutant de la musique
 
 ## Découverte de l'application
-- Sur google, il cherche "se déconnecter du numérique","se détacher du numérique".
+- Sur google, il cherche "sound visualizer","musique pour se detendre".
 - Lors de ses recherches google, il clique sur la publicité
-- Sur les réseaux sociaux, il clique sur un article en relation avec la deconnexion du numérique
+- Sur les réseaux sociaux, il clique sur un article en relation avec la musique
 
 ## Chemin vers l'objectif
 - Il découvre une publicité de l'application et commence à s'intéresser au contenu.
 - Il se retrouve absorbé par la musique, l'ambiance de cette histoire qui le touche.  
 
 ## Motivations 
-- j'aimerais comprendre ce que me déconnecter pourrait m'apporter dans la vie.
+- J’aimerai avoir un visuel pour écouter des musiques et ne pas etre distrait.
+- j'aimerais comprendre ce que voit un synesthète lorsqu'il perçoit un son.
 
 ## Freins
-- Musique insupportable
+- Visuel sale. Qui ne ressemble a rien et moche.
+- Son insupportable
 - Trop long
 - Trop sombre
 - Trop superficiel
-- Pas assez de fond
-- Difficulté trop élevée
 
 ***
 
