@@ -37,7 +37,7 @@ Pouvoir faire une application d’écoute de musique et aussi expliquer ce que r
 <img align="left" src="https://i.ytimg.com/vi/h4x9hgrPUiQ/maxresdefault.jpg" alt="drawing" width="200"/>
 
 
-<br>
+</br>
 
 
 
