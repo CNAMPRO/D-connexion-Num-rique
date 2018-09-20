@@ -209,7 +209,18 @@ Un monde vendeur de rêves est le marchand de sable idéal pour les naîf et les
 - Game Engine  => GODOT, UNITY, Processing 
 
 - **Godot** : Gratuit, Open Source, workflow scenes/nodes est plus intuitif que les prefab d'unity, shaders + faciles, Animations pas terribles
-- **Unity** : Version free suffisante, communauté gigantesque, beaucoup d'assets gratuits disponibles
+
+- **Unity** : Version free suffisante, communauté gigantesque, beaucoup d'assets gratuits disponibles, IA facile à mettre en place, Shaders / Post processing faciles à mettre en place, Très beau graphiquement
+
 - **Processing** : Beaucoup de choses à réinventer, moins poussé graphiquement 
 
 
+## 20/09/2018 
+
+### Définir les objectifs
+
+## Délimiter le périmètre
+## Identifier les sources d'information
+## Mettre en place le dispositif de surveillance
+## Traiter, Analyser, Capitaliser les informations recueillies
+## Diffuser, utiliser, Partager
