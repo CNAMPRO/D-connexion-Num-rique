@@ -39,7 +39,7 @@ Pouvoir faire une application d’écoute de musique et aussi expliquer ce que r
 
 <img align="left" src="https://i.ytimg.com/vi/h4x9hgrPUiQ/maxresdefault.jpg" alt="drawing" width="200" height="100"/>
 
-<img align="left" src="https://camo.githubusercontent.com/b40783502e8f644e972ad8e9532b039d0f4d304d/687474703a2f2f7265732e636c6f7564696e6172792e636f6d2f64766b7866677072632f696d6167652f75706c6f61642f76313531313236343138392f67697068795f325f6568696434762e676966" width="200" height="100" />
+<img align="left" style="margin-top:10px" src="https://camo.githubusercontent.com/b40783502e8f644e972ad8e9532b039d0f4d304d/687474703a2f2f7265732e636c6f7564696e6172792e636f6d2f64766b7866677072632f696d6167652f75706c6f61642f76313531313236343138392f67697068795f325f6568696434762e676966" width="200" height="100" />
 
 <img align="left" src="http://blog.motionisland.com/wp-content/uploads/2018/04/after-effects-round-audio-spectrum.gif" width="200" height="100" />
 
