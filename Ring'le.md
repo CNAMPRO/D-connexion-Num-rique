@@ -77,16 +77,21 @@ Pouvoir faire une application d’écoute de musique et aussi expliquer ce que r
 
 ***
 
+# Histoires
+Raconter l’histoire d’une personne atteinte de synestesie audi visuel, qui veut faire vivre l’experience aux gens non atteints.
+- Description personnage
+- Explication de son problème
+- Volonté de faire ce projet pour faire vivre aux gens qui n’ont pas ce problème
+
+## Description personnage et problème : 
+Bruno, jeune homme d’une trentaine d’année, a découvert étant jeune qu’il était atteint de synesthésie. Lors d’un cours de physique en classe de 4ème, son professeur lui avait montré une vidéo pour expliquer des concepts de physique tels que la gravité et l'énergie cinétique, il s’agissait d’une vidéo avec des balles qui rebondissent. Bruno fut interrogé pour expliquer pourquoi la balle agissait comme cela et qu’elle rebondissait sur le sol, Bruno commence à expliquer que c’est un jeu de son et que la balle était synchroniser à ce son. Lorsque le son fut jouer la balle tapait en même temps contre le sol. Le professeur n’a pas pris au sérieux Bruno et lui dit que ce n’était pas sérieux qu’il voulait une réponse sérieuse et que sa réponse n’avait servie à rien. Bruno ne comprenait pas la situation car pour lui tout était normal dû à sa synesthésie , il associe le visuel à des sons mais à son âge il n’était pas au courant de cela. Il rentra chez lui et expliqua la situation à ses parents, ils se sont renseignés sur internet et ont trouvé qu’il existait une maladie qui aurait pu expliquer la situation, c'était la synesthésie . Ils se sont mis à rechercher un spécialiste et ont pris un rendez vous. Le rendez vous se fait enfin et la conclusion est que Bruno est bien atteint de synesthésie . Ils ont de suite fait un mot et sont allés expliquer au professeur de physique ainsi qu’au professeur principal le problème de Bruno. 
+
 # Arches narratives
 
 ## Situation Initale
-On retrouve Mike qui voyage à divers endroits de la planète, possédant chacun leur propre style musical.
 ## Intrigue/ Elément perturbateur 
-Notre personnage se retrouve dans sa ville natale, assiégé par la technologie où toute la population est devenue cyberdépendant. Il se retrouve seul dans la rue à déambuler en attente d'une nouvelle destination. Une fois la destination sélectionné par l'utilisateur, Mike commence son voyage et le jeu de rythme peut commencer.
 ## Eléménts de résolution 
-L'utilisateur réussit le jeu de rythme ou alors l'utilisateur perd le jeu de rythme, plus il rate de notes et plus il a de chance de se faire rattraper par la technologie et donc de se retrouver dans cette fameuse ville.
 ## Situation finale
-Mike se retrouve de nouveau dans sa ville natale, il peut alors une nouvelle fois choisir une nouvelle destination afin de continuer osn périble.
 
 
 ### Définir les objectifs
