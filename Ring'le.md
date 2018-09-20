@@ -84,7 +84,9 @@ Raconter l’histoire d’une personne atteinte de synestesie audi visuel, qui v
 - Volonté de faire ce projet pour faire vivre aux gens qui n’ont pas ce problème
 
 ## Description personnage et problème : 
-Bruno, jeune homme d’une trentaine d’année, a découvert étant jeune qu’il était atteint de synesthésie. Lors d’un cours de physique en classe de 4ème, son professeur lui avait montré une vidéo pour expliquer des concepts de physique tels que la gravité et l'énergie cinétique, il s’agissait d’une vidéo avec des balles qui rebondissent. Bruno fut interrogé pour expliquer pourquoi la balle agissait comme cela et qu’elle rebondissait sur le sol, Bruno commence à expliquer que c’est un jeu de son et que la balle était synchroniser à ce son. Lorsque le son fut jouer la balle tapait en même temps contre le sol. Le professeur n’a pas pris au sérieux Bruno et lui dit que ce n’était pas sérieux qu’il voulait une réponse sérieuse et que sa réponse n’avait servie à rien. Bruno ne comprenait pas la situation car pour lui tout était normal dû à sa synesthésie , il associe le visuel à des sons mais à son âge il n’était pas au courant de cela. Il rentra chez lui et expliqua la situation à ses parents, ils se sont renseignés sur internet et ont trouvé qu’il existait une maladie qui aurait pu expliquer la situation, c'était la synesthésie . Ils se sont mis à rechercher un spécialiste et ont pris un rendez vous. Le rendez vous se fait enfin et la conclusion est que Bruno est bien atteint de synesthésie . Ils ont de suite fait un mot et sont allés expliquer au professeur de physique ainsi qu’au professeur principal le problème de Bruno. 
+Bruno, jeune homme d’une trentaine d’année, a découvert étant jeune qu’il était atteint de synesthésie. Lors d’un cours de physique en classe de 4ème, son professeur lui avait montré une vidéo pour expliquer des concepts de physique tels que la gravité et l'énergie cinétique, il s’agissait d’une vidéo avec des balles qui rebondissent. Bruno fut interrogé pour expliquer pourquoi la balle agissait comme cela et qu’elle rebondissait sur le sol, Bruno commence à expliquer que c’est un jeu de son et que la balle était synchroniser à ce son. Lorsque le son fut jouer la balle tapait en même temps contre le sol. Le professeur n’a pas pris au sérieux Bruno et lui dit que ce n’était pas sérieux qu’il voulait une réponse sérieuse et que sa réponse n’avait servie à rien. Bruno ne comprenait pas la situation car pour lui tout était normal dû à sa synesthésie , il associe le visuel à des sons mais à son âge il n’était pas au courant de cela. Il rentra chez lui et expliqua la situation à ses parents, ils se sont renseignés sur internet et ont trouvé qu’il existait une maladie qui aurait pu expliquer la situation, c'était la synesthésie . Ils se sont mis à rechercher un spécialiste et ont pris un rendez vous. Le rendez vous se fait enfin et la conclusion est que Bruno est bien atteint de synesthésie . Ils ont de suite fait un mot et sont allés expliquer au professeur de physique ainsi qu’au professeur principal le problème de Bruno.
+
+Volonté de faire le projet : Étant donné la situation de la synesthésie, Bruno décida plus tard de développer une application à la fois utile et à caractère informatif sur la maladie “Synesthésie ”. Une application d’écoute de musique qui permet dans le visuel d'interagir en rythme avec le son écouté. Retranscrire ce que ressent Bruno aux personnes n’étant pas atteints.
 
 # Arches narratives
 
@@ -93,6 +95,7 @@ Bruno, jeune homme d’une trentaine d’année, a découvert étant jeune qu’
 ## Eléménts de résolution 
 ## Situation finale
 
+*** 
 
 ### Définir les objectifs
 
