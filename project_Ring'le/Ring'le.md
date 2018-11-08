@@ -108,5 +108,5 @@ Volonté de faire le projet : Étant donné la situation de la synesthésie, Bru
   - Reproduire le spectacle de la fontaine du Bellagio Las Vegas ou la Féérie des eaux de Nîmes
   - Reproduire le jet de la fontaine et jouer les différents jets qui dépendent du son produit
 
-- **Dylan : **
+- **Dylan :**
   - Splash screen de l'application et interface graphique + debut de la scène orchestrale si fini
