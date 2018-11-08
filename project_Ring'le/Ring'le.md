@@ -97,10 +97,18 @@ Volonté de faire le projet : Étant donné la situation de la synesthésie, Bru
 
 *** 
 
-### Définir les objectifs
+# Définir les objectifs 08/11/2028
+## Retour alternance
+### Objectif scéance 1
+- **Quentin :** 
+  - Raconter raconter une tempète produite avec la musique 
+  - Faire voler des feuilles et reproduire le vent (particule)
 
-## Délimiter le périmètre
-## Identifier les sources d'information
-## Mettre en place le dispositif de surveillance
-## Traiter, Analyser, Capitaliser les informations recueillies
-## Diffuser, utiliser, Partager
+- **Pierre :** 
+  - Reproduire le spectacle de la fontaine du Bellagio Las Vegas ou la Féérie des eaux de Nîmes
+  - Reproduire le jet de la fontaine et jouer les différents jets qui dépendent du son produit
+
+- **Dylan :**
+  - Splash screen de l'application et interface graphique + debut de la scène orchestrale si fini
+- **Kevin :**
+  - Absent
