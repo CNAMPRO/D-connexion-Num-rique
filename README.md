@@ -218,6 +218,18 @@ Un monde vendeur de rêves est le marchand de sable idéal pour les naîf et les
 ## 20/09/2018 
 
 ### Définir les objectifs
+## Retour alternance
+- Objectif scéance 1
+- Quentin : 
+- Raconter raconter une tempète produite avec la musique 
+- Faire voler des feuilles et reproduire le vent (particule)
+
+- Quentin : 
+- Reproduire le spectacle de la fontaine du Bellagio Las Vegas ou la Féérie des eaux de Nîmes
+- Reproduire le jet de la fontaine et jouer les différents jets qui dépendent du son produit
+
+- Dylan : 
+- 
 
 ## Délimiter le périmètre
 ## Identifier les sources d'information
