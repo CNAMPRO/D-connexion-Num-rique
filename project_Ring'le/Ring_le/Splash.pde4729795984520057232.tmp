@@ -1,0 +1,22 @@
+class Splash { 
+  RShape shp;
+  RShape polyshp;
+  float x = 600;
+  
+  Splash (this) {  
+  smooth();
+  RG.init(this);
+
+  shp = RG.loadShape("logo_Ringle.svg");
+  shp = RG.centerIn(shp, g, 100);
+  } 
+
+  void update() {  
+    
+  }
+
+  boolean finished() {
+    return (time > 0)?false:true;
+  }
+
+} 
