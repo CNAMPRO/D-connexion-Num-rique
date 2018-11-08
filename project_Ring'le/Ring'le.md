@@ -97,9 +97,9 @@ Volonté de faire le projet : Étant donné la situation de la synesthésie, Bru
 
 *** 
 
-### Définir les objectifs 08/11/2028
+# Définir les objectifs 08/11/2028
 ## Retour alternance
-# Objectif scéance 1
+### Objectif scéance 1
 - **Quentin :** 
   - Raconter raconter une tempète produite avec la musique 
   - Faire voler des feuilles et reproduire le vent (particule)
