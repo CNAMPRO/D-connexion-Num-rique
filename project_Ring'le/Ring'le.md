@@ -110,3 +110,5 @@ Volonté de faire le projet : Étant donné la situation de la synesthésie, Bru
 
 - **Dylan :**
   - Splash screen de l'application et interface graphique + debut de la scène orchestrale si fini
+- **Kevin :**
+  - Absent
