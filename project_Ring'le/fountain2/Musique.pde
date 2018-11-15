@@ -43,6 +43,7 @@ class Musique {
   float fftmaxhi = 1;
   float fftmaxmid = 1;
   int cpt = 0;
+  float globalMax = 0;
 
   Musique(AudioPlayer j) {
     p1 = new ParticleSystem(new PVector(width/4, (3*height)/4));
@@ -77,7 +78,8 @@ class Musique {
     for (int i = 0; i < jingle.bufferSize(); ++i) {
       myBuffer[i] = jingle.left.get(i);
     }
-
+    float scoreGlobal = 0.66*scoreLow + 0.8*scoreMid + 1*scoreHi;
+    globalMax = (scoreGlobal > globalMax)?scoreGlobal:globalMax;
     if (fftmaxhi < scoreHi) {
       fftmaxhi = scoreHi;
     }
@@ -87,17 +89,21 @@ class Musique {
     if (fftmaxmid < scoreMid) {
       fftmaxmid = scoreMid;
     }
+    
+    //float val = map(scoreLow, 0, fftmaxlow, 0, 12); // hauteur basse
+    float val = map(scoreGlobal, 0, globalMax, 0, 12); // hauteur basse
+    float vald = map(scoreLow, 0, fftmaxlow, -4, 4); // hauteur basse
 
-    float val = map(scoreLow, 0, fftmaxlow, 0, 12); // hauteur basse
     float valdir = map(scoreHi, 0, fftmaxhi, -7, 0); // direction basse
     float valMid = map(scoreMid, 0, fftmaxmid, 0, 10);// hauteur mid
-
-    if(frameCount%2 == 0)p1.addParticle(random(valdir, valdir*0.7), random(-val, -val*0.5));//random(-5, 5) = départ de la particule axe x random(-2, 0) Vistesse de la particule (hauteur)
-    if(frameCount%2 == 0)p2.addParticle(random(-2, 2), random(-val, -val*0.5));
-    if(frameCount%2 == 0)p3.addParticle(random(-valdir, -valdir*0.7), random(-val, -val*0.5));
-    if(frameCount%2 == 0)p4.addParticle(random(valdir*0.2, valdir*0.4), random(-valMid, -valMid*0.5));
-    if(frameCount%2 == 0)p5.addParticle(random(-valdir*0.2, -valdir*0.4), random(-valMid, -valMid*0.5));
-    if(frameCount%2 == 0)p6.addParticle(random(-1, 1), random(-1*scoreHi*reduc, 0));
+    if (scoreGlobal > 30) {
+      p1.addParticle(random(valdir, valdir*0.7), random(-val, -val*0.5));//random(-5, 5) = départ de la particule axe x random(-2, 0) Vistesse de la particule (hauteur)
+      p2.addParticle(random(vald-0.5,vald+0.5), random(-val, -val*0.5));
+      p3.addParticle(random(-valdir, -valdir*1.4), random(-val, -val*0.5));
+      p4.addParticle(random(valdir*0.2, valdir*0.4), random(-valMid, -valMid*0.5));// rang 2 gauche
+      p5.addParticle(random(-valdir*0.2, valdir*0.2), random(-valMid, -valMid*0.5));
+      if(frameCount%2==0)p6.addParticle(random(-1, 1), random(-1*scoreHi*reduc, 0));
+    }
 
     p1.run();
     p2.run();
@@ -107,3 +113,9 @@ class Musique {
     p6.run();
   }
 }
+
+
+// pour modifier la direction et accel + facilement a faire avec papounou
+//dir = new PVector();
+//dir.rotate(random(-PI/6,PI/6));
+//dir.multi(random(0.1,1)

@@ -1,26 +1,27 @@
 class ParticleSystem {
-  ArrayList<Particle> particles;
   PVector origin;
-  //int index = 0;
-  
+  int index = 0;
+  int maxparticles = 1000;
+  ArrayList<Particle> particles = new ArrayList<Particle>(maxparticles);
 
   ParticleSystem(PVector position) {
     origin = position.copy();
-    particles = new ArrayList<Particle>();
+    particles = new ArrayList<Particle>(maxparticles);
+    for(int i = 0 ; i<maxparticles ; i++){
+      particles.add(new Particle());
+    }
   }
 
-  void addParticle(float x,float y) {
-    Particle p = new Particle(origin);
-    p.velocity.set(x,y);
-    particles.add(p);
+  void addParticle(float x, float y) {
+    Particle p = particles.get(index);
+    index = (index + 1)%maxparticles;
+    p.activate(origin, new PVector(x, y));
   }
 
   void run() {
-    for (int i = particles.size()-1; i >= 0; i--) {
-      Particle p = particles.get(i);
-      p.run();
-      if (p.isDead()) {
-        particles.remove(i);
+    for (Particle p : particles) {
+      if (!p.isDead()) {
+        p.run();
       }
     }
   }

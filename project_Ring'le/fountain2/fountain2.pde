@@ -8,7 +8,7 @@ AudioPlayer jingle;
 boolean start = false;
 
 void setup() {
-    fullScreen(P2D);
+    fullScreen();
     //noSmooth();
 
   selectInput("Selection de la musique :", "fileSelected");
