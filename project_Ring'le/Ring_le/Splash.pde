@@ -1,7 +1,7 @@
 class Splash { 
   RShape shp;
   RShape polyshp;
-  float x = 380;
+  float x = 1100;
   AudioPlayer splash;
   boolean start = true;
   Splash (AudioPlayer splash1, AudioPlayer splash2) {  
@@ -15,12 +15,14 @@ class Splash {
   void update() {
     if (splash1.position() > 4800) {
       if (start) {
+        splash1.close();
         splash.play(0);
         start = false;
       }
     }
     if (splash.position() < 3000) {
-      float pointSeparation = map(constrain(x, 100, width-100), 100, width-100, 5, 200);
+      float pointSeparation = map(constrain(x, 100, width-100), 800, width-100, 5, 200);
+  
       RG.setPolygonizer(RG.UNIFORMLENGTH);
       RG.setPolygonizerLength(pointSeparation);
 
@@ -28,6 +30,8 @@ class Splash {
       translate(width/2, height/2);
       RG.shape(polyshp);
       x--;
+    }else{
+      splash.close();
     }
   }
 

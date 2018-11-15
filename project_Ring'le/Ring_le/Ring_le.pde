@@ -8,7 +8,7 @@ ControlP5 cp5;
 
 Minim minim;
 Musique maMusique;
-AudioPlayer jingle, splash1, splash2;
+AudioPlayer jingle, splash1, splash2, menuSong;
 Splash splash;
 boolean start = false;
 boolean musiqueSelect = false;
@@ -20,6 +20,7 @@ String sceneSelected = "";
 void setup()
 {
   cp5 = new ControlP5(this);
+  cp5.setFont(createFont("Arial",10));
 
 
   RG.init(this);
@@ -27,8 +28,9 @@ void setup()
   minim = new Minim(this);
   splash1 = minim.loadFile("splashMusic.mp3");
   splash2 = minim.loadFile("getItem.mp3");
+  menuSong = minim.loadFile("menuSong.mp3");
   splash = new Splash(splash1, splash2);
-  size(700, 600);
+  fullScreen();
 }
 
 void fileSelected(File selection) {
@@ -38,6 +40,8 @@ void fileSelected(File selection) {
     jingle = minim.loadFile(selection.getAbsolutePath());
     maMusique = new Musique(jingle,sceneSelected);
     println("musique selectionné " + selection.getAbsolutePath());
+    menuSong.rewind();
+    menuSong.close();
     start = true;
   }
 }
@@ -51,6 +55,7 @@ void draw()
   splash.update();
   if (splash.finished()) {
     if (!musiqueSelect) {
+      menuSong.play(0);
       cp5.addButton("scene ligne").setPosition(width/2-100, height/2+31).setSize(200, 19);
       cp5.addButton("scene rond").setPosition(width/2-100, height/2-19).setSize(200, 19);
       cp5.addButton("scene fft").setPosition(width/2-100, height/2-69).setSize(200, 19);

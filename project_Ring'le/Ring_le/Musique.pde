@@ -23,12 +23,13 @@ class Musique {
   Color myColorEllipse;
   Color myColorTest;
   Color myColor;
+  Color myColorParticle;
   String sceneSelected;
   ParticleSystem ps;
 
-  float specLow = 0.03; // 3%
-  float specMid = 0.125;  // 12.5%
-  float specHi = 0.20;   // 20%
+  float specLow = 0.02; // 3%
+  float specMid = 0.10;  // 12.5%
+  float specHi = 0.30;   // 20%
   float scoreLow = 0;
   float scoreMid = 0;
   float scoreHi = 0;
@@ -36,9 +37,18 @@ class Musique {
   float oldScoreMid = scoreMid;
   float oldScoreHi = scoreHi;
   float scoreDecreaseRate = 25;
+  float scoreLowMax = 0;
+  float scoreMidMax = 0;
+  float scoreHiMax = 0;
+  float scoreLowDisplay = 0;
+  float scoreMidDisplay = 0;
+  float scoreHiDisplay = 0;
+  float scoreGlobalMax=0;
+  int cpt = 0;
+  Orchestre orchestre;
 
   Musique(AudioPlayer j, String s) {
-    ps = new ParticleSystem(new PVector(width/2, height-50));
+    ps = new ParticleSystem(new PVector(width/2, height-150));
     jingle = j;
     fft = new FFT(jingle.bufferSize(), jingle.sampleRate());
     myBuffer = new float[jingle.bufferSize()];
@@ -47,7 +57,9 @@ class Musique {
     myColor =  new Color();
     myColorEllipse =  new Color();
     myColorTest =  new Color();
+    myColorParticle =  new Color();
     sceneSelected = s;
+    orchestre = new Orchestre();
   }
   void update() {
 
@@ -106,10 +118,9 @@ class Musique {
         ellipse(20+(i*10), height-150, 7, fft.getBand(i) * 5);
       }
       break;
-    case "scene test": 
-      oldScoreLow = scoreLow;
-      oldScoreMid = scoreMid;
-      oldScoreHi = scoreHi;
+    case "scene test":
+      background(0);
+      float[] colors = myColorParticle.update(.01);
       scoreLow = 0;
       scoreMid = 0;
       scoreHi = 0;
@@ -119,21 +130,44 @@ class Musique {
         scoreMid += fft.getBand(i);
       for (int i = (int)(fft.specSize()*specMid); i < fft.specSize()*specHi; i++)
         scoreHi += fft.getBand(i);
-      if (oldScoreLow > scoreLow) 
-        scoreLow = oldScoreLow - scoreDecreaseRate;
-      if (oldScoreMid > scoreMid) 
-        scoreMid = oldScoreMid - scoreDecreaseRate;
-      if (oldScoreHi > scoreHi) 
-        scoreHi = oldScoreHi - scoreDecreaseRate;
 
       float scoreGlobal = 0.66*scoreLow + 0.8*scoreMid + 1*scoreHi;
-      float test = map(scoreGlobal, 50, 200, -1, 1);
-      println("Low"+scoreLow);
-      println("Mid"+scoreMid);
-      println("Hi"+scoreHi);
-      ps.addParticle(test);
+
+      scoreLowMax = (scoreLow > scoreLowMax)?scoreLow:scoreLowMax;
+      scoreMidMax = (scoreMid > scoreMidMax)?scoreMid:scoreMidMax;
+      scoreHiMax = (scoreHi > scoreHiMax)?scoreHi:scoreHiMax;
+      scoreGlobalMax = (scoreGlobal > scoreGlobalMax)?scoreGlobal:scoreGlobalMax;
+
+      scoreLowDisplay = map(scoreLow, 0, scoreLowMax, -10, -3.05);
+      scoreMidDisplay = map(scoreMid, scoreMidMax/4, scoreMidMax, -3.10, 3.90);
+      scoreHiDisplay = map(scoreHi, 0, scoreHiMax, 3, 10);
+      scoreLow = map(scoreLow, 0, scoreLowMax, 0, 1);
+      scoreMid = map(scoreMid, 0, scoreMidMax, 0, 1);
+      scoreHi =  map(scoreHi, 0, scoreHiMax, 0, 1);
+
+      float result = 0;
+      if (scoreLow > scoreMid) {
+        if (scoreLow > scoreHi)
+          result = scoreLowDisplay;
+        else
+          result = scoreHiDisplay;
+      } else {
+        if (scoreMid > scoreHi)
+          result = scoreMidDisplay;
+        else
+          result = scoreHiDisplay;
+      }
+      if (scoreGlobal > 30){
+        if(frameCount%2==0)ps.addParticle(result, colors);
+      }
+      float volume = map(scoreGlobal,0,scoreGlobalMax,20,80);
+      stroke(colors[0], colors[1], colors[2]);
+      fill(colors[0], colors[1], colors[2]);
+      ellipse(width/2, height-150, 16, 16);
+      orchestre.update(result,volume);
       ps.run();
       break;
     }
+    cpt++;
   }
 }

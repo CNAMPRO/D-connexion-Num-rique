@@ -7,8 +7,8 @@ class ParticleSystem {
     particles = new ArrayList<Particle>();
   }
 
-  void addParticle(float direction) {
-    particles.add(new Particle(origin,direction));
+  void addParticle(float direction, float[] colors) {
+    particles.add(new Particle(origin,direction, colors));
   }
 
   void run() {
