@@ -44,7 +44,6 @@ class Musique {
   float scoreMidDisplay = 0;
   float scoreHiDisplay = 0;
   float scoreGlobalMax=0;
-  int cpt = 0;
   Orchestre orchestre;
 
   Musique(AudioPlayer j, String s) {
@@ -60,6 +59,9 @@ class Musique {
     myColorParticle =  new Color();
     sceneSelected = s;
     orchestre = new Orchestre();
+  }
+  void closeSong(){
+    jingle.close();
   }
   void update() {
 
@@ -161,13 +163,12 @@ class Musique {
         if(frameCount%2==0)ps.addParticle(result, colors);
       }
       float volume = map(scoreGlobal,0,scoreGlobalMax,20,80);
-      stroke(colors[0], colors[1], colors[2]);
-      fill(colors[0], colors[1], colors[2]);
-      ellipse(width/2, height-150, 16, 16);
       orchestre.update(result,volume);
       ps.run();
+      stroke(255);
+      fill(255);
+      ellipse(width/2, height-150, 16, 16);
       break;
     }
-    cpt++;
   }
 }

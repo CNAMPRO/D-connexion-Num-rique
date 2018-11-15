@@ -20,7 +20,7 @@ String sceneSelected = "";
 void setup()
 {
   cp5 = new ControlP5(this);
-  cp5.setFont(createFont("Arial",10));
+  cp5.setFont(createFont("Arial", 10));
 
 
   RG.init(this);
@@ -38,7 +38,7 @@ void fileSelected(File selection) {
     println("Mais sélectionne une musique abrutie");
   } else {
     jingle = minim.loadFile(selection.getAbsolutePath());
-    maMusique = new Musique(jingle,sceneSelected);
+    maMusique = new Musique(jingle, sceneSelected);
     println("musique selectionné " + selection.getAbsolutePath());
     menuSong.rewind();
     menuSong.close();
@@ -73,4 +73,17 @@ public void controlEvent(ControlEvent theEvent) {
   }
   sceneSelected = theEvent.getController().getName();
   selectInput("Selection de la musique :", "fileSelected");
+}
+
+void keyPressed() {
+  if (key == 'q') {
+    maMusique.closeSong();
+    start = false;
+    menuSong.play(0);
+    java.util.List<controlP5.Button> list = cp5.getAll(Button.class);
+    for (Button b : list) {
+      b.show();
+    }
+    
+  }
 }

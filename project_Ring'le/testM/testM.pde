@@ -22,7 +22,6 @@ void setup()
 
 void draw()
 {
-  //println(frameRate
   background(0);
   maMusique.update();
 }
