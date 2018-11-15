@@ -26,9 +26,9 @@ class Musique {
   String sceneSelected;
   ParticleSystem ps;
 
-  float specLow = 0.03; // 3%
-  float specMid = 0.125;  // 12.5%
-  float specHi = 0.20;   // 20%
+  float specLow = 0.02; // 3%
+  float specMid = 0.10;  // 12.5%
+  float specHi = 0.30;   // 20%
   float scoreLow = 0;
   float scoreMid = 0;
   float scoreHi = 0;
@@ -40,6 +40,9 @@ class Musique {
   //KEVIN
   ArrayList<Gouttes> gouttes  = new ArrayList<Gouttes>();
   int frames = 0;
+  float maxLow = 0;
+  float maxMid = 0;
+  float maxHi  = 0;
 
   Musique(AudioPlayer j, String s) {
     ps = new ParticleSystem(new PVector(width/2, height-50));
@@ -140,6 +143,8 @@ class Musique {
       break;
       
       case "scene kevin": 
+      
+      background(160,160,160);
       oldScoreLow = scoreLow;
       oldScoreMid = scoreMid;
       oldScoreHi = scoreHi;
@@ -159,11 +164,17 @@ class Musique {
       if (oldScoreHi > scoreHi) 
         scoreHi = oldScoreHi - scoreDecreaseRate;
         
+        maxLow = (maxLow>scoreLow)?maxLow:scoreLow;
+        maxMid = (maxMid>scoreMid)?maxMid:scoreMid;
+        maxHi = (maxHi>scoreHi)?maxHi:scoreHi;
       
-      float y = map(scoreLow+scoreMid+scoreHi,0,2800,0,height);
-      scoreLow = map(scoreLow,0,1300,0,1);
-      scoreMid = map(scoreMid,0,1000,0,1);
-      scoreHi = map(scoreHi,0,500,0,1);
+      float y = map(scoreLow+scoreMid+scoreHi,0,2000,0,height);
+      float sizeGoutte = map(y,0,height,5,150);
+      y = height - y;
+      
+      scoreLow = map(scoreLow,0,maxLow*0.7,0,1);
+      scoreMid = map(scoreMid,0,maxMid*0.7,0,1);
+      scoreHi = map(scoreHi,0,maxHi*0.7,0,1);
       
       
       float scoreTemp = (scoreLow>scoreMid)?scoreLow:scoreMid;
@@ -177,18 +188,18 @@ class Musique {
       
       float x = 0;
       if(type==1)
-        x = map(scoreLow,0,1,0,width/3);
+        x = random(0,width/3);
       if(type==2)
-        x = map(scoreMid,0,1,width/3,2*width/3);
+        x = random(width/3,2*width/3);
       if(type==3)
-        x = map(scoreHi,0,1,2*width/3,width);
+        x = random(width/3*2,width);
         
       
       frames++;
       if(scoreLow != 0 && scoreMid != 0 && scoreHi != 0)
       {
         frames = 0;
-        gouttes.add(new Gouttes(x,y,100,60));
+        gouttes.add(new Gouttes(x,y,int(sizeGoutte),60));
       }
       for(int cpt = 0; cpt<gouttes.size();cpt++)
       {

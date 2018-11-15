@@ -28,7 +28,7 @@ void setup()
   splash1 = minim.loadFile("splashMusic.mp3");
   splash2 = minim.loadFile("getItem.mp3");
   splash = new Splash(splash1, splash2);
-  size(700, 600);
+  fullScreen();
 }
 
 void fileSelected(File selection) {
