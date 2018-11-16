@@ -82,8 +82,7 @@ L'intensité des couleurs change également selon la puissance des notes de la m
     - Destruction des particules qui sontent de l'écran.
     - Je suis donc revenu à un affichage d'elipse simple qui prend beaucoup mois de ressources
     
-## Nom de la scene:
-- La goutte de trop
+## La goutte de trop
 
 ### Photo de la scene:
 <img  src="https://i.imgur.com/vuXcEkC.png" alt="drawing" width="400" height="200"/>
