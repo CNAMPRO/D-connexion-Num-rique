@@ -1,15 +1,15 @@
 
-class ParticleSystem {
+class ParticulesSystem {
   ArrayList<Particules> particles;
   PVector origin;
   int type;
   
-  ParticleSystem(PVector position) {
+  ParticulesSystem(PVector position) {
     origin = position.copy();
     particles = new ArrayList<Particules>();
   }
 
-  void addParticle() {
+  void addParticles() {
     particles.add(new Particules(int(random(0,3)),int(random(10,20)),int(random(-5,10))));
   }
 
