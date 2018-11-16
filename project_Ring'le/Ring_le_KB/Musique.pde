@@ -56,6 +56,11 @@ class Musique {
     myColorTest =  new Color();
     sceneSelected = s;
   }
+  
+  void closeSong(){
+    jingle.close();
+  }
+  
   void update() {
 
     fft.forward(jingle.mix);
