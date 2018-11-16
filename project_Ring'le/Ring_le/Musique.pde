@@ -123,8 +123,10 @@ class Musique {
       }
       break;
     case "scene test":
-      background(0);
       float[] colors = myColorParticle.update(.01);
+      background(colors[0],colors[1],colors[2]);
+      fill(0,230);
+      ellipse(width/2,height/2,width*2,height*2);
       scoreLow = 0;
       scoreMid = 0;
       scoreHi = 0;

@@ -44,8 +44,7 @@ void fileSelected(File selection) {
     jingle = minim.loadFile(selection.getAbsolutePath());
     maMusique = new Musique(jingle, sceneSelected);
     println("musique selectionné " + selection.getAbsolutePath());
-    menuSong.rewind();
-    menuSong.close();
+    menuSong.pause();
     start = true;
   }
 }
@@ -53,10 +52,12 @@ void fileSelected(File selection) {
 void draw()
 {
   colors2 = myColor2.update(.01);
-  if (!splash.finished() && !skipIntro) {
-    colors = myColor.update(.01);
-  }
+  colors = myColor.update(.01);
   background(colors[0], colors[1], colors[2]);
+  if (splash.finished() || skipIntro) {
+    fill(0,190);
+    ellipse(width/2,height/2,width*2,height*2);
+  }
   splash.update();
   if (splash.finished() || skipIntro) {
     if (!musiqueSelect) {
@@ -92,6 +93,7 @@ void keyPressed() {
       maMusique.closeSong();
       start = false;
       menuSong.play(0);
+      println(menuSong);
       java.util.List<controlP5.Button> list = cp5.getAll(Button.class);
       for (Button b : list) {
         b.show();
