@@ -20,7 +20,7 @@ La scène est une représentation d'un orchestre. On peut apercevoir un chef orc
   - Résolution : Trait qui part du chef d'orchestre et qui va vers les musiciens qui doivent s'activer.
 
 ## Scene Leaf
-<img  src="https://imgur.com/U1pOpJg" alt="drawing" width="400" height="200"/>
+<img  src="https://i.imgur.com/U1pOpJg.jpg" alt="drawing" width="400" height="200"/>
 
  ### Histoire de la scene
    Chacun a pu être émue des couleurs que la nature nous donne en un temps d'automne. Ici, la musique produit du vent qui pousse ces feuilles de différentes couleurs. Bruno voit ici un retour vers la nature. Car, dans la nature , la vrai, on ne peut être connecté à la société d'aujourd'hui ,le calme y est.
