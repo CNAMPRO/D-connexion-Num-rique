@@ -4,7 +4,7 @@
 ![](https://i.imgur.com/8iPhlk7.jpg)
 ## Orchestre
 ### Démonstration
-<img  src="https://i.imgur.com/Wb0MZAa.jpg" alt="drawing" width="400" height="200"/>
+<img  src="https://media.giphy.com/media/dIUSqgIcYkJtWyInCv/giphy.gif" alt="drawing" width="400" height="200"/>
 
 ### Histoire
 Etant atteint de la synesthésie, Bruno perçoit la musique avec une disposition spatiale particulière. Passionné d'opéra depuis tout petit il passe beaucoup de temps dans les opéras, petit à petit il prit l'habitude de visualiser toutes les musiques qu'il entend dans sa tête sous une forme d'orchestre ce qui lui permet de se sentir "chez lui" et d'être rassuré de manière immédiate. C'est donc ce que veut transmettre Bruno à travers cette scène sortie tout droit de sa tête.
@@ -49,7 +49,8 @@ Version 2
 Version 3 
 
 <img  src="https://i.imgur.com/O6VRuGJ.png" alt="drawing" width="400" height="200"/>
-
+Version 4
+<img  src="https://media.giphy.com/media/pPiEudV4npXqFegJgZ/giphy.gif" alt="drawing" width="400" height="200"/>
 
 ### Histoire de la scène
 
@@ -87,7 +88,7 @@ L'intensité des couleurs change également selon la puissance des notes de la m
 ## La goutte de trop
 
 ### Photo de la scene:
-<img  src="https://i.imgur.com/vuXcEkC.png" alt="drawing" width="400" height="200"/>
+<img  src="https://media.giphy.com/media/1pAhjyr1ri9hlL9Arz/giphy.gif" width="400" height="200"/>
 
 ### Histoire: 
 - Le son permet de s'évader, partir de cette réalité qui nous enferme dans le numérique. L'enfant qui se perd au bord de la fenêtre, qui regarde les gouttes coulées le long de la vitre jusqu'à qu'une autre goutte vienne interpeler son regard. Le son de la pluie le fait rêver et penser à l'avenir, lui faire poser des questions que lui seul peut répondre et dont personne n'aura la réponse. Ce moment de détente lui appartient comme s'il était le roi de l'univers qu'il se crée, comme si tout ce qui comptait était lui et son imagination hors du système.
