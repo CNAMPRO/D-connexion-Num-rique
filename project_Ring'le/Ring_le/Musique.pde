@@ -45,9 +45,11 @@ class Musique {
   float scoreHiDisplay = 0;
   float scoreGlobalMax=0;
   Orchestre orchestre;
-
+  ArrayList<Gouttes> gouttes  = new ArrayList<Gouttes>();
+  
+  
   Musique(AudioPlayer j, String s) {
-    ps = new ParticleSystem(new PVector(width/2, height-150));
+    ps = new ParticleSystem(new PVector(width/2, height-150),"Orchestre");
     jingle = j;
     fft = new FFT(jingle.bufferSize(), jingle.sampleRate());
     myBuffer = new float[jingle.bufferSize()];
@@ -60,7 +62,7 @@ class Musique {
     sceneSelected = s;
     orchestre = new Orchestre();
   }
-  void closeSong(){
+  void closeSong() {
     jingle.close();
   }
   void update() {
@@ -159,15 +161,83 @@ class Musique {
         else
           result = scoreHiDisplay;
       }
-      if (scoreGlobal > 30){
-        if(frameCount%2==0)ps.addParticle(result, colors, "Orchestre");
+      if (scoreGlobal > 30) {
+        if (frameCount%2==0)ps.addParticle(result, colors);
       }
-      float volume = map(scoreGlobal,0,scoreGlobalMax,20,80);
-      orchestre.update(result,volume);
+      float volume = map(scoreGlobal, 0, scoreGlobalMax, 20, 80);
+      stroke(colors[0],colors[1],colors[2]);
+      fill(colors[0],colors[1],colors[2]);
+      orchestre.update(result, volume);
       ps.run();
       stroke(255);
       fill(255);
       ellipse(width/2, height-150, 16, 16);
+      break;
+    case "scene kevin": 
+
+      background(30, 30, 30);
+      oldScoreLow = scoreLow;
+      oldScoreMid = scoreMid;
+      oldScoreHi = scoreHi;
+      scoreLow = 0;
+      scoreMid = 0;
+      scoreHi = 0;
+      for (int i = 0; i < fft.specSize()*specLow; i++)
+        scoreLow += fft.getBand(i);
+      for (int i = (int)(fft.specSize()*specLow); i < fft.specSize()*specMid; i++)
+        scoreMid += fft.getBand(i);
+      for (int i = (int)(fft.specSize()*specMid); i < fft.specSize()*specHi; i++)
+        scoreHi += fft.getBand(i);
+      if (oldScoreLow > scoreLow) 
+        scoreLow = oldScoreLow - scoreDecreaseRate;
+      if (oldScoreMid > scoreMid) 
+        scoreMid = oldScoreMid - scoreDecreaseRate;
+      if (oldScoreHi > scoreHi) 
+        scoreHi = oldScoreHi - scoreDecreaseRate;
+
+      scoreLowMax = (scoreLowMax>scoreLow)?scoreLowMax:scoreLow;
+      scoreMidMax = (scoreMidMax>scoreMid)?scoreMidMax:scoreMid;
+      scoreHiMax = (scoreHiMax>scoreHi)?scoreHiMax:scoreHi;
+
+      float y = map(scoreLow+scoreMid+scoreHi, 0, 2000, 0, height);
+      float sizeGoutte = map(y, 0, height, 5, 150);
+      y = height - y;
+
+      scoreLow = map(scoreLow, 0, scoreLowMax*0.7, 0, 1);
+      scoreMid = map(scoreMid, 0, scoreMidMax*0.7, 0, 1);
+      scoreHi = map(scoreHi, 0, scoreHiMax*0.7, 0, 1);
+
+
+      float scoreTemp = (scoreLow>scoreMid)?scoreLow:scoreMid;
+      scoreTemp = (scoreTemp>scoreHi)?scoreTemp:scoreHi;
+
+      int type = 0;
+
+      type = (scoreTemp == scoreLow)?1:type;
+      type = (scoreTemp == scoreMid)?2:type;
+      type = (scoreTemp == scoreHi)?3:type;
+
+      float x = 0;
+      if (type==1)
+        x = random(0, width/3);
+      if (type==2)
+        x = random(width/3, 2*width/3);
+      if (type==3)
+        x = random(width/3*2, width);
+
+      if (scoreLow != 0 && scoreMid != 0 && scoreHi != 0)
+      {
+        gouttes.add(new Gouttes(x, y, int(sizeGoutte), 60));
+      }
+      for (int cpt = 0; cpt<gouttes.size(); cpt++)
+      {
+        Gouttes gt = gouttes.get(cpt);
+        gt.update();
+        if (gt.finished())
+        {
+          gouttes.remove(cpt);
+        }
+      }
       break;
     }
   }

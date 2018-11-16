@@ -5,15 +5,17 @@ class Particle {
   float lifespan;
   float [] colors = new float[3];
   PVector test;
-  Particle(PVector l, float direction, float[] colorsX) {
+  String type;
+  Particle(PVector l, float direction, float[] colorsX, String type) {
     acceleration = new PVector(0, 0);
     velocity = new PVector(direction, random(-5, -2));
     position = l.copy();
     test = l.copy();
-    lifespan = random(20.0,60.0);
+    lifespan = (type=="Orchestre")?random(20.0,60.0):255.0;
     colors[0] = colorsX[0];
     colors[1] = colorsX[1];
     colors[2] = colorsX[2];
+    this.type = type;
   }
 
   void run() {
@@ -33,8 +35,15 @@ class Particle {
     float background = map(lifespan,0,20,0,255);
     stroke(colors[0], colors[1], colors[2], background);
     fill(colors[0], colors[1], colors[2], background);
-    strokeWeight(4);
-    line(position.x, position.y, test.x, test.y);
+    if(type == "Orchestre"){
+      strokeWeight(4);
+      line(position.x, position.y, test.x, test.y);
+    }
+    if(type == "Intro"){
+      noFill();
+      strokeWeight(3);
+      ellipse(position.x, position.y, 16, 16);
+    }
   }
 
   // Is the particle still useful?

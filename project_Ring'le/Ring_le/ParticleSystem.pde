@@ -1,15 +1,17 @@
 class ParticleSystem {
   ArrayList<Particle> particles;
   PVector origin;
+  String type;
 
-  ParticleSystem(PVector position) {
+  ParticleSystem(PVector position,String type) {
     origin = position.copy();
     particles = new ArrayList<Particle>();
+    this.type = type;
   }
 
-  void addParticle(float direction, float[] colors,String type) {
-    if(type == "Orchestre")
-      particles.add(new Particle(origin,direction, colors));
+  void addParticle(float direction, float[] colors) {
+    if(type == "Orchestre" || type == "Intro")
+      particles.add(new Particle(origin,direction, colors,type));
   }
 
   void run() {

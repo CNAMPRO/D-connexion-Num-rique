@@ -14,9 +14,12 @@ boolean start = false;
 boolean musiqueSelect = false;
 boolean startScene1 = false;
 Color myColor=  new Color();
+Color myColor2=  new Color();
 float[] colors = new float[3];
+float[] colors2 = new float[3];
 String sceneSelected = "";
 boolean skipIntro = false;
+ParticleSystem ps1, ps2;
 
 void setup()
 {
@@ -29,6 +32,8 @@ void setup()
   splash2 = minim.loadFile("getItem.mp3");
   menuSong = minim.loadFile("menuSong.mp3");
   splash = new Splash(splash1, splash2);
+  ps1 = new ParticleSystem(new PVector(-100, height+300),"Intro");
+  ps2 = new ParticleSystem(new PVector(width+100, height+300),"Intro");
   fullScreen();
 }
 
@@ -47,6 +52,7 @@ void fileSelected(File selection) {
 
 void draw()
 {
+  colors2 = myColor2.update(.01);
   if (!splash.finished() && !skipIntro) {
     colors = myColor.update(.01);
   }
@@ -59,7 +65,13 @@ void draw()
       cp5.addButton("scene rond").setPosition(width/2-100, height/2-19).setSize(200, 19);
       cp5.addButton("scene fft").setPosition(width/2-100, height/2-69).setSize(200, 19);
       cp5.addButton("scene test").setPosition(width/2-100, height/2-119).setSize(200, 19);
+      cp5.addButton("scene kevin").setPosition(width/2-100, height/2-169).setSize(200, 19);
       musiqueSelect = true;
+    }else if(!start) {
+      if (frameCount%2==0)ps1.addParticle(random(-2,2), colors2);
+      if (frameCount%2==0)ps2.addParticle(random(-2,2), colors2);
+      ps1.run();
+      ps2.run();
     }
     if (start)
       maMusique.update();
