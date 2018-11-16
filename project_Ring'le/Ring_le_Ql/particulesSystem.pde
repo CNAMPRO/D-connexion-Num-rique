@@ -1,10 +1,10 @@
 
-class ParticleSystem {
+class ParticulesSystem {
   ArrayList<Particules> particles;
   PVector origin;
   int type;
   
-  ParticleSystem(PVector position) {
+  ParticulesSystem(PVector position) {
     origin = position.copy();
     particles = new ArrayList<Particules>();
   }
