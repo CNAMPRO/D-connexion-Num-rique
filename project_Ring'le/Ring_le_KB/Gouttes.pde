@@ -2,8 +2,9 @@ class Gouttes {
   float posX;
   float posY;
   float taille;
+  float tailleCircle;
   int time;
-  int i = 5;
+  int i = 10;
   float r,g,b;
   float opacity = 0;
   Gouttes (float posX, float posY, float taille, int time) {  
@@ -17,7 +18,19 @@ class Gouttes {
   } 
 
   void update() {
-    if(i<taille)
+    if(i<taille*0.5)
+    {
+      tailleCircle++;
+      i+=2;
+      opacity = map(i,0,taille,0,128);
+      fill(255-r,g,b, int(255-opacity*2));
+      stroke(255-r,g,b, int(255-opacity));
+      ellipse(posX, posY, i, i);
+      fill(255-r,g,b, 255);
+      stroke(255-r,g,b, 255);
+      ellipse(posX, posY, tailleCircle, tailleCircle);
+    }
+    else if(i<taille)
     {
       i+=2;
       opacity = map(i,0,taille,0,128);
