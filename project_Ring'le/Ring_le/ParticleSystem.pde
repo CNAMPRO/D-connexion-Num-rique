@@ -7,8 +7,9 @@ class ParticleSystem {
     particles = new ArrayList<Particle>();
   }
 
-  void addParticle(float direction, float[] colors) {
-    particles.add(new Particle(origin,direction, colors));
+  void addParticle(float direction, float[] colors,String type) {
+    if(type == "Orchestre")
+      particles.add(new Particle(origin,direction, colors));
   }
 
   void run() {

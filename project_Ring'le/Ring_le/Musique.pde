@@ -160,7 +160,7 @@ class Musique {
           result = scoreHiDisplay;
       }
       if (scoreGlobal > 30){
-        if(frameCount%2==0)ps.addParticle(result, colors);
+        if(frameCount%2==0)ps.addParticle(result, colors, "Orchestre");
       }
       float volume = map(scoreGlobal,0,scoreGlobalMax,20,80);
       orchestre.update(result,volume);

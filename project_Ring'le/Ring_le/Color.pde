@@ -26,4 +26,10 @@ class Color {
     colors[2] = center_rgb[2] + rgb[2] * sin(phasor[2]);
     return colors;
   }
+  
+  void setColors(float[] colorsSet) {
+    colors[0] = colorsSet[0];
+    colors[1] = colorsSet[1];
+    colors[2] = colorsSet[2];
+  }
 }
