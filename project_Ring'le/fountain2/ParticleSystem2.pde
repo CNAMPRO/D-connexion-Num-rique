@@ -12,16 +12,16 @@ class ParticleSystem {
     }
   }
 
-  void addParticle(float x, float y) {
+  void addParticle(float x, float y, float[] colors) {
     Particle p = particles.get(index);
     index = (index + 1)%maxparticles;
-    p.activate(origin, new PVector(x, y));
+    p.activate(origin, new PVector(x, y),colors);
   }
 
-  void run() {
+  void run(float [] colors) {
     for (Particle p : particles) {
       if (!p.isDead()) {
-        p.run();
+        p.run(colors);
       }
     }
   }

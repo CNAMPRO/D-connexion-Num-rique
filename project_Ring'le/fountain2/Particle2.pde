@@ -14,15 +14,14 @@ class Particle {
     for (int i=0; i<tailletab; i++) {
       pposition.add(position.copy());
     }
-    lifespan = 0.0;
+    lifespan = 0.0;  
   }
 
-  void run() {
+  void run(float[] colors) {
     update();
-    display();
+    display(colors);
   }
 
-  // Method to update position
   void update() {
     if (frameCount%5 == 0) {
       pposition.set(index, position.copy());
@@ -33,12 +32,12 @@ class Particle {
     lifespan -= 1.0;
   }
   // Method to display
-  void display() {
+  void display(float[] colors) {
 
-    stroke(255, lifespan);
-    strokeWeight(4);
-    fill(214, 255, 255, lifespan);
-    noFill();
+    stroke(colors[0], colors[1], colors[2], lifespan);
+    //strokeWeight(4);
+    fill(colors[0], colors[1], colors[2], lifespan);
+    //noFill();
     ellipse(position.x, position.y, 8, 8);
     //beginShape();
     //for (int i = 0; i<tailletab; i+=1) {
@@ -54,14 +53,16 @@ class Particle {
     //}
   }
 
-  void activate(PVector _position, PVector _vitesse) {
+  void activate(PVector _position, PVector _vitesse, float[] colors) {
     velocity =  _vitesse.copy();
     position = _position.copy();
     lifespan= 255;
+    fill(colors[0],colors[1],colors[2],lifespan);
     for (int i=0; i<tailletab; i++) {
       pposition.set(i, position.copy());
     }
   }
+
 
   // Is the particle still useful?
   boolean isDead() {
