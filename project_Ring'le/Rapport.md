@@ -38,11 +38,14 @@ La scène est une représentation d'un orchestre. On peut apercevoir un chef orc
 ## Fontaine
 
 ### Photo de la scène
-Version 1
+Version 1 
+
 <img  src="https://i.imgur.com/dTVHF1g.png" alt="drawing" width="400" height="200"/>
 Version 2
+
 <img  src="https://i.imgur.com/lQ5bMvM.png" alt="drawing" width="400" height="200"/>
 Version 3 
+
 <img  src="https://i.imgur.com/O6VRuGJ.png" alt="drawing" width="400" height="200"/>
 
 
