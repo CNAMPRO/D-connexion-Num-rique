@@ -82,3 +82,26 @@ L'intensité des couleurs change également selon la puissance des notes de la m
     - Destruction des particules qui sontent de l'écran.
     - Je suis donc revenu à un affichage d'elipse simple qui prend beaucoup mois de ressources
     
+## Nom de la scene:
+- Raine // Le reigne de l'orage // La goutte de trop // 
+
+### Photo de la scene:
+![]() 
+
+### Histoire: 
+- Le son permet de s'évader, partir de cette réalité qui nous enferme dans le numérique. L'enfant qui se perd au bord de la fenêtre, qui regarde les gouttes coulées le long de la vitre jusqu'à qu'une autre goutte vienne interpeler son regard. Le son de la pluie le fait rêver et penser à l'avenir, lui faire poser des questions que lui seul peut répondre et dont personne n'aura la réponse. Ce moment de détente lui appartient comme s'il était le roi de l'univers qu'il se crée, comme si tout ce qui comptait était lui et son imagination hors du système.
+
+### Fonctionnement de la scene:
+- La scene est divisée en 3 grandes parties :
+  - Les graves situés à gauche
+  - Les mediums situés au milieu
+  - Les aigus situés à droite
+- Plus un son sera fort plus il se situera en haut de l'écran.
+
+### Problemes :
+- Réaliser une pluie 
+  - Réaliser une multitude de gouttes
+    - Réaliser une goutte
+- Les gouttes ont des couleurs differentes en fonction de leur amplitude(son) et de leur frequence(grave/aigu)
+ 
+    
