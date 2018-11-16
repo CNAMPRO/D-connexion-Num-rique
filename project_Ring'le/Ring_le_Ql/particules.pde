@@ -97,7 +97,7 @@ class Particules {
   void display() {
     // dessins ligne 
     for (int i=0; i<this.tallArray-1; i++) {
-      alpha = map(i, 0, this.tallArray-1, 0, 255);
+      alpha = map(i, 0, this.tallArray-1, 255, 0);
       fill(#F8FBFC);
       stroke(#F8FBFC, alpha);
       line(ppos.get(i).x, ppos.get(i).y, ppos.get(i+1).x, ppos.get(i+1).y);
