@@ -62,6 +62,7 @@ void draw()
   if (splash.finished() || skipIntro) {
     if (!musiqueSelect) {
       menuSong.play(0);
+      cp5.addButton("Scene leaf").setPosition(width/2-100, height/2+131).setSize(200, 19);
       cp5.addButton("Fontaine").setPosition(width/2-100, height/2+81).setSize(200, 19);
       cp5.addButton("La ligne de la vie").setPosition(width/2-100, height/2+31).setSize(200, 19);
       cp5.addButton("Le fond du bol").setPosition(width/2-100, height/2-19).setSize(200, 19);

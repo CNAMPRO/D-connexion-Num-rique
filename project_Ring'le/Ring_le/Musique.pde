@@ -61,6 +61,9 @@ class Musique {
   ParticleSystemFontaine p4;
   ParticleSystemFontaine p5;
   ParticleSystemFontaine p6;
+  ParticulesSystemLeaf ps2;
+
+
 
 
   Musique(AudioPlayer j, String s) {
@@ -77,6 +80,7 @@ class Musique {
     sceneSelected = s;
     orchestre = new Orchestre();
     myColorFontaine =  new ColorFontaine();
+    ps2 = new ParticulesSystemLeaf(new PVector(-50, height/2));
 
     p1 = new ParticleSystemFontaine(new PVector(width/4, (3*height)/4));
     p2 = new ParticleSystemFontaine(new PVector((2*width)/4, (3*height)/4));
@@ -328,6 +332,44 @@ class Musique {
       p4.run(colorsFontaine[1]);
       p5.run(colorsFontaine[1]);
       p6.run(colorsFontaine[2]);
+      break;
+    case "Scene leaf":
+      background(0);
+      scoreLow = 0;
+      scoreMid = 0;
+      scoreHi = 0;
+      for (int i = 0; i < fft.specSize()*specLow; i++)
+        scoreLow += fft.getBand(i);
+      for (int i = (int)(fft.specSize()*specLow); i < fft.specSize()*specMid; i++)
+        scoreMid += fft.getBand(i);
+      for (int i = (int)(fft.specSize()*specMid); i < fft.specSize()*specHi; i++)
+        scoreHi += fft.getBand(i);
+
+      float Ampli = 0.66*scoreLow + 0.8*scoreMid + 1*scoreHi;
+
+      scoreLowMax = (scoreLow > scoreLowMax)?scoreLow:scoreLowMax;
+      scoreMidMax = (scoreMid > scoreMidMax)?scoreMid:scoreMidMax;
+      scoreHiMax = (scoreHi > scoreHiMax)?scoreHi:scoreHiMax;
+      scoreGlobalMax = (Ampli > scoreGlobalMax)?Ampli:scoreGlobalMax;
+      if (scoreLowMax != 0) {
+        scoreLow = map(scoreLow, 0, scoreLowMax, 0, 20);
+      } 
+      if (scoreMidMax !=0) {
+        scoreMid = map(scoreMid, 0, scoreMidMax, 0, 20);
+      }
+      if (scoreHiMax != 0) {
+        scoreHi =  map(scoreHi, 0, scoreHiMax, 0, 20);
+      }
+      if (scoreGlobalMax !=0) {
+        Ampli = map(Ampli, 0, scoreGlobalMax, 0, 15);
+      }
+      //println ("scoreLow ="+ scoreLow +"scoreMid="+scoreMid+"scoreHi"+scoreHi);
+      // Voir en fonction de la music 
+      //if ( frameCount % 5 == 0) {
+      if ( random(1) < 0.2 ) {
+        ps2.addParticles();
+      }
+      ps2.run(scoreLow, scoreMid, scoreHi, Ampli);
       break;
     }
   }
