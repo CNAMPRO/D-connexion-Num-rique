@@ -9,7 +9,7 @@ class ParticleSystem {
     particles = new ArrayList<Particules>();
   }
 
-  void addParticle() {
+  void addParticles() {
     particles.add(new Particules(int(random(0,3)),int(random(10,20)),int(random(-5,10))));
   }
 
