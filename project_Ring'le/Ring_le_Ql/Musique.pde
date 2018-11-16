@@ -60,7 +60,7 @@ class Musique {
     myColorParticle =  new Color();
     sceneSelected = s;
     orchestre = new Orchestre();
-    ps2 = new ParticulesSystem(new PVector(-200, height/2));
+    ps2 = new ParticulesSystem(new PVector(-50, height/2));
   }
   void closeSong() {
     jingle.close();
@@ -171,17 +171,48 @@ class Musique {
       fill(255);
       ellipse(width/2, height-150, 16, 16);
       break;
+      
     case "scene leaf":
       background(0);
+      scoreLow = 0;
+      scoreMid = 0;
+      scoreHi = 0;
+      for (int i = 0; i < fft.specSize()*specLow; i++)
+        scoreLow += fft.getBand(i);
+      for (int i = (int)(fft.specSize()*specLow); i < fft.specSize()*specMid; i++)
+        scoreMid += fft.getBand(i);
+      for (int i = (int)(fft.specSize()*specMid); i < fft.specSize()*specHi; i++)
+        scoreHi += fft.getBand(i);
+      
+      float Ampli = 0.66*scoreLow + 0.8*scoreMid + 1*scoreHi;
+
+      scoreLowMax = (scoreLow > scoreLowMax)?scoreLow:scoreLowMax;
+      scoreMidMax = (scoreMid > scoreMidMax)?scoreMid:scoreMidMax;
+      scoreHiMax = (scoreHi > scoreHiMax)?scoreHi:scoreHiMax;
+      scoreGlobalMax = (Ampli > scoreGlobalMax)?Ampli:scoreGlobalMax;
+      if(scoreLowMax != 0) {
+      scoreLow = map(scoreLow, 0, scoreLowMax, 0, 20);
+      } 
+      if(scoreMidMax !=0) {
+      scoreMid = map(scoreMid, 0, scoreMidMax, 0, 20);
+      }
+      if(scoreHiMax != 0) {
+      scoreHi =  map(scoreHi, 0, scoreHiMax, 0, 20);
+      }
+      if(scoreGlobalMax !=0) {
+      Ampli = map(Ampli,0,scoreGlobalMax,0,15);
+      }
+      //println ("scoreLow ="+ scoreLow +"scoreMid="+scoreMid+"scoreHi"+scoreHi);
       // Voir en fonction de la music 
       //if ( frameCount % 5 == 0) {
       if ( random(1) < 0.2 ) {
-
         ps2.addParticles();
+        
       }
-      ps2.run();
-
+      ps2.run(scoreLow,scoreMid,scoreHi,Ampli);
       break;
+      
+      
     }
   }
 }

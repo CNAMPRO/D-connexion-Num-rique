@@ -17,8 +17,12 @@ class Particules {
   float alpha;
   int tallArray;
   int rgb;
-
+  int typeFeuille;
+  float ventX;
+  float ventY;
+  
   public Particules(int typeFeuille, int scale, int tallArray) {
+    this.typeFeuille = typeFeuille;
     this.tallArray= tallArray;
     this.alpha=255;
     this.rgb = #F0F0F0;
@@ -44,23 +48,35 @@ class Particules {
     lifespan = 255.0;
   }
 
-  void run() {
-    update();
+  void run(float low, float mid, float hight, float ampli) {
+    update(low,mid,hight,ampli);
     display();
   }
 
-  void update() {
+  void update(float low, float mid, float hight, float ampli) {
     for (int i=this.tallArray-1; i>=1; i--) {
       PVector memory = ppos.get(i-1);
       ppos.set(i, memory);
     }
+    
     if (this.tallArray != 0) {
       ppos.set(0, position.copy());
     }
     noiseScale = 0.01;
-    // force du vent pouvant être modifié via lamplitude de la music a un instant donné
-    float ventX = 12;
-    float ventY = 5;
+    // force du vent pouvant être modifié via lamplitude de la music a un instant don
+    // vent Y en fonction de l'ampli et vent X en fonction de low,md,high 
+     if (typeFeuille == 0) {
+       // low marron
+    ventX = low;
+    } else if (typeFeuille == 1) {
+      //mid orange clair 
+    ventX = mid;
+    } else {
+      // hight orange 2 
+    ventX = hight;
+
+    }
+    ventY=ampli;
     float nx = noise(position.x*noiseScale, position.y*noiseScale, frameCount*noiseScale);
     float ax = map(nx, 0, 1, -ventX, ventX);
     float ny = noise(position.x*noiseScale+1000, position.y*noiseScale+120000, frameCount*noiseScale);
@@ -73,7 +89,7 @@ class Particules {
     velocity.add(grav);
     position.add(velocity);
     // rotation feuille 
-    float rnx = noise(position.x*noiseScale, position.y*noiseScale, frameCount*noiseScale);
+    float rnx = noise(position.x*noiseScale*0.6, position.y*noiseScale*0.6, frameCount*noiseScale);
     rotationX += map(rnx, 0, 1, 0.1, 0.5);
     lifespan -= 1.0;
   }
