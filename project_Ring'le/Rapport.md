@@ -40,19 +40,14 @@ La scène est une représentation d'un orchestre. On peut apercevoir un chef orc
 ## Fontaine
 
 ### Photo de la scène
-<div style="width:50%">Version 1 
-
+<div style="width:49%;float:left">
 <img  src="https://i.imgur.com/dTVHF1g.png" alt="drawing" width="400" height="200"/>
-Version 2
-
 <img  src="https://i.imgur.com/lQ5bMvM.png" alt="drawing" width="400" height="200"/>
-</div><div style="width:50%">
-Version 3 
-
+</div><div style="width:49%;flaot:left">
 <img  src="https://i.imgur.com/O6VRuGJ.png" alt="drawing" width="400" height="200"/>
-Version 4
 <img  src="https://media.giphy.com/media/pPiEudV4npXqFegJgZ/giphy.gif" alt="drawing" width="400" height="200"/>
 </div>
+
 ### Histoire de la scène
 
 * La fontaine rappelle la fontaine du Bellagio de Las Vegas ou encore La Féerie des Eaux en France. 
