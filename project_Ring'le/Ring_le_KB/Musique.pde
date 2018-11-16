@@ -149,7 +149,7 @@ class Musique {
       
       case "scene kevin": 
       
-      background(160,160,160);
+      background(30,30,30);
       oldScoreLow = scoreLow;
       oldScoreMid = scoreMid;
       oldScoreHi = scoreHi;
