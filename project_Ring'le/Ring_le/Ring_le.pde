@@ -62,11 +62,12 @@ void draw()
   if (splash.finished() || skipIntro) {
     if (!musiqueSelect) {
       menuSong.play(0);
-      cp5.addButton("scene ligne").setPosition(width/2-100, height/2+31).setSize(200, 19);
-      cp5.addButton("scene rond").setPosition(width/2-100, height/2-19).setSize(200, 19);
-      cp5.addButton("scene fft").setPosition(width/2-100, height/2-69).setSize(200, 19);
-      cp5.addButton("scene test").setPosition(width/2-100, height/2-119).setSize(200, 19);
-      cp5.addButton("scene kevin").setPosition(width/2-100, height/2-169).setSize(200, 19);
+      cp5.addButton("Fontaine").setPosition(width/2-100, height/2+81).setSize(200, 19);
+      cp5.addButton("La ligne de la vie").setPosition(width/2-100, height/2+31).setSize(200, 19);
+      cp5.addButton("Le fond du bol").setPosition(width/2-100, height/2-19).setSize(200, 19);
+      cp5.addButton("Fft").setPosition(width/2-100, height/2-69).setSize(200, 19);
+      cp5.addButton("Orchestre").setPosition(width/2-100, height/2-119).setSize(200, 19);
+      cp5.addButton("La goutte de trop").setPosition(width/2-100, height/2-169).setSize(200, 19);
       musiqueSelect = true;
     }else if(!start) {
       if (frameCount%2==0)ps1.addParticle(random(-2,2), colors2);

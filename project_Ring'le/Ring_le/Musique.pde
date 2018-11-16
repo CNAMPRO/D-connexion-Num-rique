@@ -9,6 +9,9 @@ class Musique {
   PFont f;
   boolean start = true;
 
+
+  float [] tabNote = new float[3];
+  float [] tabMax= new float[3];
   float pop = random(30, 100);
   float[] circles = new float[29];
   float gain = 100;
@@ -24,6 +27,7 @@ class Musique {
   Color myColorTest;
   Color myColor;
   Color myColorParticle;
+  ColorFontaine myColorFontaine;
   String sceneSelected;
   ParticleSystem ps;
 
@@ -44,12 +48,23 @@ class Musique {
   float scoreMidDisplay = 0;
   float scoreHiDisplay = 0;
   float scoreGlobalMax=0;
+  float reduc = 0.1;
+  float fftmaxlow = 1;
+  float fftmaxhi = 1;
+  float fftmaxmid = 1;
+  float globalMax = 0;
   Orchestre orchestre;
   ArrayList<Gouttes> gouttes  = new ArrayList<Gouttes>();
-  
-  
+  ParticleSystemFontaine p1;
+  ParticleSystemFontaine p2;
+  ParticleSystemFontaine p3;
+  ParticleSystemFontaine p4;
+  ParticleSystemFontaine p5;
+  ParticleSystemFontaine p6;
+
+
   Musique(AudioPlayer j, String s) {
-    ps = new ParticleSystem(new PVector(width/2, height-150),"Orchestre");
+    ps = new ParticleSystem(new PVector(width/2, height-150), "Orchestre");
     jingle = j;
     fft = new FFT(jingle.bufferSize(), jingle.sampleRate());
     myBuffer = new float[jingle.bufferSize()];
@@ -61,6 +76,14 @@ class Musique {
     myColorParticle =  new Color();
     sceneSelected = s;
     orchestre = new Orchestre();
+    myColorFontaine =  new ColorFontaine();
+
+    p1 = new ParticleSystemFontaine(new PVector(width/4, (3*height)/4));
+    p2 = new ParticleSystemFontaine(new PVector((2*width)/4, (3*height)/4));
+    p3 = new ParticleSystemFontaine(new PVector((3*width)/4, (3*height)/4));
+    p4 = new ParticleSystemFontaine(new PVector((width)/3, (2*height)/4));
+    p5 = new ParticleSystemFontaine(new PVector((2*width)/3, (2*height)/4));
+    p6 = new ParticleSystemFontaine(new PVector((width)/2, (1.5*height)/4));
   }
   void closeSong() {
     jingle.close();
@@ -70,7 +93,7 @@ class Musique {
     fft.forward(jingle.mix);
 
     switch(sceneSelected) {
-    case "scene ligne": 
+    case "La ligne de la vie": 
       for (int i = 0; i < jingle.bufferSize(); ++i) {
         myBuffer[i] = jingle.left.get(i);
       }
@@ -95,7 +118,7 @@ class Musique {
         line(x1, 100 - myBuffer[i+offset]*gain, x2, 100 - myBuffer[i+1+offset]*gain);
       }
       break;
-    case "scene rond": 
+    case "Le fond du bol": 
       for (int i = 0; i < 29; i++) {
 
         float amplitude = fft.getAvg(i);
@@ -112,7 +135,7 @@ class Musique {
         ellipse(height/2+60, width/2-40, circles[i], circles[i]);
       }
       break;
-    case "scene fft": 
+    case "Fft": 
       for (int i = 0; i < fft.specSize(); i++)
       {
         float[] colors = myColorEllipse.getColors();
@@ -122,11 +145,11 @@ class Musique {
         ellipse(20+(i*10), height-150, 7, fft.getBand(i) * 5);
       }
       break;
-    case "scene test":
+    case "Orchestre":
       float[] colors = myColorParticle.update(.01);
-      background(colors[0],colors[1],colors[2]);
-      fill(0,230);
-      ellipse(width/2,height/2,width*2,height*2);
+      background(colors[0], colors[1], colors[2]);
+      fill(0, 230);
+      ellipse(width/2, height/2, width*2, height*2);
       scoreLow = 0;
       scoreMid = 0;
       scoreHi = 0;
@@ -167,15 +190,15 @@ class Musique {
         if (frameCount%2==0)ps.addParticle(result, colors);
       }
       float volume = map(scoreGlobal, 0, scoreGlobalMax, 20, 80);
-      stroke(colors[0],colors[1],colors[2]);
-      fill(colors[0],colors[1],colors[2]);
+      stroke(colors[0], colors[1], colors[2]);
+      fill(colors[0], colors[1], colors[2]);
       orchestre.update(result, volume);
       ps.run();
       stroke(255);
       fill(255);
       ellipse(width/2, height-150, 16, 16);
       break;
-    case "scene kevin": 
+    case "La goutte de trop": 
 
       background(30, 30, 30);
       oldScoreLow = scoreLow;
@@ -240,6 +263,71 @@ class Musique {
           gouttes.remove(cpt);
         }
       }
+      break;
+    case "Fontaine": 
+      background(0);
+      specLow = 0.03; // 3%
+      specMid = 0.125;  // 12.5%
+      specHi = 0.30;   // 30%
+      oldScoreLow = scoreLow;
+      oldScoreMid = scoreMid;
+      oldScoreHi = scoreHi;
+      scoreLow = 0;
+      scoreMid = 0;
+      scoreHi = 0;
+
+      fft.forward(jingle.mix); //avance dans la musique
+
+      for (int i = 0; i < fft.specSize()*specLow; i++)
+        scoreLow += fft.getBand(i);
+      for (int i = (int)(fft.specSize()*specLow); i < fft.specSize()*specMid; i++)
+        scoreMid += fft.getBand(i);
+      for (int i = (int)(fft.specSize()*specMid); i < fft.specSize()*specHi; i++)
+        scoreHi += fft.getBand(i);
+      for (int i = 0; i < jingle.bufferSize(); ++i) {
+        myBuffer[i] = jingle.left.get(i);
+      }
+      tabNote[0] = scoreLow;
+      tabNote[1] = scoreMid;
+      tabNote[2] = scoreHi;
+
+      float scoreGlobalFontaine = 0.66*scoreLow + 0.8*scoreMid + 1*scoreHi;
+      globalMax = (scoreGlobalFontaine > globalMax)?scoreGlobalFontaine:globalMax;
+      if (fftmaxhi < scoreHi) {
+        fftmaxhi = scoreHi;
+      }
+      tabMax[2] = fftmaxhi;
+      if (fftmaxlow < scoreLow) {
+        fftmaxlow = scoreLow;
+      }
+      tabMax[0] = fftmaxlow;
+      if (fftmaxmid < scoreMid) {
+        fftmaxmid = scoreMid;
+      }
+      tabMax[1] = fftmaxmid;
+
+      float[][] colorsFontaine = myColorFontaine.udpdateColorMusic(tabNote, tabMax);
+      float val = map(scoreGlobalFontaine, 0, globalMax, 0, 12); // hauteur basse
+      float vald = map(scoreLow, 0, fftmaxlow, -4, 4); // hauteur basse
+      float valHi = map(scoreHi, 0, fftmaxhi, 0, 10);
+      float valdir = map(scoreHi, 0, fftmaxhi, -5, 0); // direction basse
+      float valMid = map(scoreMid, 0, fftmaxmid, 0, 5);// hauteur mid
+
+      if (scoreGlobalFontaine > 30) {
+        p1.addParticle(random(valdir, valdir*0.7), random(-val, -val*0.5), colorsFontaine[0]);//random(-5, 5) = départ de la particule axe x random(-2, 0) Vistesse de la particule (hauteur)
+        p2.addParticle(random(-vald*0.5, vald*0.5), random(-val, -val*0.5), colorsFontaine[0]);
+        p3.addParticle(random(-valdir, -valdir*1.4), random(-val, -val*0.5), colorsFontaine[0]);
+        p4.addParticle(random(valdir*0.2, valdir*0.4), random(-valMid, -valMid*0.5), colorsFontaine[1]);// rang 2 gauche
+        p5.addParticle(random(-valdir*0.2, valdir*0.2), random(-valMid, -valMid*0.5), colorsFontaine[1]);
+        if (frameCount%2==0)p6.addParticle(random(valdir*0.2, -valdir*0.2), random(-valHi, -valHi*0.5), colorsFontaine[2]);
+      }
+
+      p1.run(colorsFontaine[0]);
+      p2.run(colorsFontaine[0]);
+      p3.run(colorsFontaine[0]);
+      p4.run(colorsFontaine[1]);
+      p5.run(colorsFontaine[1]);
+      p6.run(colorsFontaine[2]);
       break;
     }
   }
