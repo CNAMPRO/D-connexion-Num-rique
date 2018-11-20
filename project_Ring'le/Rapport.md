@@ -2,6 +2,11 @@
 
 ## Sprints : 
 ![](https://i.imgur.com/8iPhlk7.jpg)
+
+## Identifier les besoins et les exigences à satisfaire
+
+
+
 ## Orchestre
 ### Démonstration
 <img  src="https://media.giphy.com/media/dIUSqgIcYkJtWyInCv/giphy.gif" alt="drawing" width="400" height="200"/>
