@@ -32,14 +32,17 @@ void setup()
   splash2 = minim.loadFile("getItem.mp3");
   menuSong = minim.loadFile("menuSong.mp3");
   splash = new Splash(splash1, splash2);
-  ps1 = new ParticleSystem(new PVector(-100, height+300),"Intro");
-  ps2 = new ParticleSystem(new PVector(width+100, height+300),"Intro");
+  ps1 = new ParticleSystem(new PVector(-100, height+300), "Intro");
+  ps2 = new ParticleSystem(new PVector(width+100, height+300), "Intro");
   fullScreen();
 }
 
 void fileSelected(File selection) {
   if (selection == null) {
-    println("Mais sélectionne une musique abrutie");
+    java.util.List<controlP5.Button> list = cp5.getAll(Button.class);
+    for (Button b : list) {
+      b.show();
+    }
   } else {
     jingle = minim.loadFile(selection.getAbsolutePath());
     maMusique = new Musique(jingle, sceneSelected);
@@ -55,8 +58,8 @@ void draw()
   colors = myColor.update(.01);
   background(colors[0], colors[1], colors[2]);
   if (splash.finished() || skipIntro) {
-    fill(0,190);
-    ellipse(width/2,height/2,width*2,height*2);
+    fill(0, 190);
+    ellipse(width/2, height/2, width*2, height*2);
   }
   splash.update();
   if (splash.finished() || skipIntro) {
@@ -70,9 +73,9 @@ void draw()
       cp5.addButton("Orchestre").setPosition(width/2-100, height/2-119).setSize(200, 19);
       cp5.addButton("La goutte de trop").setPosition(width/2-100, height/2-169).setSize(200, 19);
       musiqueSelect = true;
-    }else if(!start) {
-      if (frameCount%2==0)ps1.addParticle(random(-2,2), colors2);
-      if (frameCount%2==0)ps2.addParticle(random(-2,2), colors2);
+    } else if (!start) {
+      if (frameCount%2==0)ps1.addParticle(random(-2, 2), colors2);
+      if (frameCount%2==0)ps2.addParticle(random(-2, 2), colors2);
       ps1.run();
       ps2.run();
     }
