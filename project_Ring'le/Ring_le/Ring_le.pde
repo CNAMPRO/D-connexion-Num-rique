@@ -45,10 +45,17 @@ void fileSelected(File selection) {
     }
   } else {
     jingle = minim.loadFile(selection.getAbsolutePath());
-    maMusique = new Musique(jingle, sceneSelected);
-    println("musique selectionné " + selection.getAbsolutePath());
-    menuSong.pause();
-    start = true;
+    if (jingle != null) {
+      maMusique = new Musique(jingle, sceneSelected);
+      println("musique selectionné " + selection.getAbsolutePath());
+      menuSong.pause();
+      start = true;
+    } else {
+      java.util.List<controlP5.Button> list = cp5.getAll(Button.class);
+      for (Button b : list) {
+        b.show();
+      }
+    }
   }
 }
 
