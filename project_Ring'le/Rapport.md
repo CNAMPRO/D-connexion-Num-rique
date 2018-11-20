@@ -1,9 +1,29 @@
 # Rapport d'activités
+### Equipe 
 
-## Sprints : 
+- Kevin BIGOT
+- Pierre NOLOT
+- Dylan RAIMON
+- Quentin LUPPO
+
+## Introduction
+
+Lors du troisième semestre de la formation, il nous a été demandé de réaliser un projet qui mélangerait la notion de son et de visuel. Ce projet a été réalisé avec l’aide de Mme Papini et M. Marxer, nous avons travaillé par groupe de 4 alternants. Les cours ont été divisé en deux catégories, le développement effectué avec M. Marxer et la gestion de projet avec Mme Papini. Le projet effectué et la méthode de gestion de projet doit être présenté en fin de semestre lors d’une présentation.
+
+## Méthode de travail
+
+Pour ce projet nous avons décidé d’utiliser la méthode agile et de diviser notre travail en 4 sprints, dont un sprint qui nous a permis de mettre en place la méthode de travail, deux sprints de recherche et développement et le dernier sprint pour la finalisation du projet.
+
+## Plan de management du projet  
 ![](https://i.imgur.com/8iPhlk7.jpg)
 
-## Identifier les besoins et les exigences à satisfaire
+### détails du sprint 1
+
+### détails du sprint 2
+<img  src="https://i.imgur.com/2e62dam.jpg" alt="drawing" width="200" height="400"/>
+### détails du sprint 3
+
+### détails du sprint 4
 
 
 
