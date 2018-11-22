@@ -202,14 +202,8 @@ Un monde vendeur de rêves est le marchand de sable idéal pour les naîf et les
 - => Idée 2 :  Humanoïd qui s'humanise, arrache ses connexion par étapes, retrouve ses 5 sens.
 
 
-
 ### RESOURCES :
-
-- Youtube channel : TrainingCode *Merci Kévin*
 - Game Engine  => GODOT, UNITY, Processing 
-
 - **Godot** : Gratuit, Open Source, workflow scenes/nodes est plus intuitif que les prefab d'unity, shaders + faciles, Animations pas terribles
-
 - **Unity** : Version free suffisante, communauté gigantesque, beaucoup d'assets gratuits disponibles, IA facile à mettre en place, Shaders / Post processing faciles à mettre en place, Très beau graphiquement
-
 - **Processing** : Beaucoup de choses à réinventer, moins poussé graphiquement 
