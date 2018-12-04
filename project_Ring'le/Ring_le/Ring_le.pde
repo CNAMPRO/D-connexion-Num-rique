@@ -34,7 +34,7 @@ void setup()
   splash = new Splash(splash1, splash2);
   ps1 = new ParticleSystem(new PVector(-100, height+300), "Intro");
   ps2 = new ParticleSystem(new PVector(width+100, height+300), "Intro");
-  fullScreen();
+  size(1280,720);
 }
 
 void fileSelected(File selection) {

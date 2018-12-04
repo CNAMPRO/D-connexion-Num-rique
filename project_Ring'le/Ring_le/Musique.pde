@@ -136,7 +136,7 @@ class Musique {
         stroke(colors[0], colors[1], colors[2], amplitude*255);
         strokeWeight(map(amplitude, 0, 1, STROKE_MIN, STROKE_MAX));
         fill(colors[0], colors[1], colors[2], 150);
-        ellipse(height/2+60, width/2-40, circles[i], circles[i]);
+        ellipse(height/2, width/2, circles[i], circles[i]);
       }
       break;
     case "Fft": 
@@ -144,7 +144,9 @@ class Musique {
       {
         float[] colors = myColorEllipse.getColors();
         if (i%2 == 0)
-          colors = myColorEllipse.update(.1);
+          colors = myColorEllipse.update(11);
+          // or colors = myColorEllipse.update(10);
+        stroke(colors[0], colors[1], colors[2], 100);
         fill(colors[0], colors[1], colors[2], 100);
         ellipse(20+(i*10), height-150, 7, fft.getBand(i) * 5);
       }

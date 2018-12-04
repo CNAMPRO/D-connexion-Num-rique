@@ -6,7 +6,7 @@ class Ellipse {
   Ellipse(float x, float y) {
       this.x = x;
       this.y = y;
-      this.decrease = random(1,2);
+      this.decrease = random(0.5,2);
   }
 
   void update() {
