@@ -6,12 +6,12 @@ class Particle {
   float [] colors = new float[3];
   PVector test;
   String type;
-  Particle(PVector l, float direction, float[] colorsX, String type) {
+  Particle(PVector l, float direction, float[] colorsX, String type, float volume) {
     acceleration = new PVector(0, 0);
     velocity = new PVector(direction, random(-5, -2));
     position = l.copy();
     test = l.copy();
-    lifespan = (type=="Orchestre")?random(20.0,60.0):255.0;
+    lifespan = (type=="Orchestre")?volume:255.0;
     colors[0] = colorsX[0];
     colors[1] = colorsX[1];
     colors[2] = colorsX[2];

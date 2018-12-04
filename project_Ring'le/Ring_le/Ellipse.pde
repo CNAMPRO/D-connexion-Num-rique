@@ -2,13 +2,15 @@ class Ellipse {
   float x;
   float y;
   float taille = 20;
+  float decrease;
   Ellipse(float x, float y) {
       this.x = x;
       this.y = y;
+      this.decrease = random(1,2);
   }
 
   void update() {
-    if(taille>20) taille = taille-1;
+    if(taille>20) taille = taille-this.decrease;
      ellipse(x, y, taille, taille);
   }
   float getX(){

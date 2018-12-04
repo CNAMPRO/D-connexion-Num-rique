@@ -9,7 +9,7 @@ class Musique {
   PFont f;
   boolean start = true;
 
-
+  int tailleChef = 16;
   float [] tabNote = new float[3];
   float [] tabMax= new float[3];
   float pop = random(30, 100);
@@ -190,17 +190,19 @@ class Musique {
         else
           result = scoreHiDisplay;
       }
-      if (scoreGlobal > 30) {
-        if (frameCount%2==0)ps.addParticle(result, colors);
-      }
       float volume = map(scoreGlobal, 0, scoreGlobalMax, 20, 80);
+      float v = map(scoreGlobal, 0, scoreGlobalMax, 20, 60);
+      if (scoreGlobal > 30) {
+        if (frameCount%2==0)ps.addParticle(result, colors,v);
+      }
+      
       stroke(colors[0], colors[1], colors[2]);
       fill(colors[0], colors[1], colors[2]);
       orchestre.update(result, volume);
       ps.run();
       stroke(255);
       fill(255);
-      ellipse(width/2, height-150, 16, 16);
+      ellipse(width/2, height-150, 20, 20);
       break;
     case "La goutte de trop": 
 

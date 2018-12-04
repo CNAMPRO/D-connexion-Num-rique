@@ -15,7 +15,8 @@ class Orchestre {
   void update(float direction, float volume) {
     for(Ellipse e: ellipses){
       float selection = map(direction,-10,10,0,width);
-      if(e.getX()>selection-100 && e.getX() < selection+100){
+      float selectionVertical = map(volume,0,60,height-400,0);
+      if(e.getX()>selection-100 && e.getX() < selection+100 && e.getY() > selectionVertical){
           e.selected(volume);
       }
       e.update();

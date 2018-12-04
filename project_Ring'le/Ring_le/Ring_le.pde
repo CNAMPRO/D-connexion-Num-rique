@@ -81,8 +81,8 @@ void draw()
       cp5.addButton("La goutte de trop").setPosition(width/2-100, height/2-169).setSize(200, 19);
       musiqueSelect = true;
     } else if (!start) {
-      if (frameCount%2==0)ps1.addParticle(random(-2, 2), colors2);
-      if (frameCount%2==0)ps2.addParticle(random(-2, 2), colors2);
+      if (frameCount%2==0)ps1.addParticle(random(-2, 2), colors2,0);
+      if (frameCount%2==0)ps2.addParticle(random(-2, 2), colors2,0);
       ps1.run();
       ps2.run();
     }
