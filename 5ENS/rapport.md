@@ -186,4 +186,26 @@ Le choix est volontaire de fuir le côté protocolaire des noms de sprints et pa
         - Cinématiques poussées
         - Background de l'histoire plus poussé
         
+        
+        
+        
+### Problèmes rencontrés :
+
+- Concrétiser l’abstrait : 
+  - Problème : De nombreuses idées, sans être capable de les concrétiser, de schématiser la pensée.
+  - Solution : Mind Mapping,
+       - Ressortir les mots clés
+       - Ressortir les idées principales
+       - Et construire à partir de ça
+  - Commentaire : le Mind Mapping est une façon géniale d'expliciter ce qui reste abstrait dans la tête
+
+
+
+
+- Manque de compétences / Conaissances sur Unity
+    - Problème : Manque de compétences
+    - Solution : Dav, 
+
+
+        
 
