@@ -165,6 +165,7 @@ Un monde vendeur de rêves est le marchand de sable idéal pour les naîf et les
 Le choix est volontaire de fuir le côté protocolaire des noms de sprints et partir sur une histoire.
 
 1. SAM se prépare à vivre son aventure
+  Correspond à une phrase 0 de préparation du projet, avec de la gestion de conf, de la veille et de reflexion
 2. SAM PLONGE DANS L’INCONNU
 3. SAM SE redécouvre des sens
 4. SAM n’est plus ce qu’il était
