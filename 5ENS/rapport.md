@@ -125,3 +125,48 @@ Le post en question le redirige vers une application web, qui lui fait découvri
     Joel passe ses journées à tracker ce chauffeur, à répertorier chacun de ses déplacement, chacun de ses viewers et personnes qu'il fréquente. Il les répertorie, les catégorise en fait des statisques. Grâce à ces dernières, il finance des disaines de campagnes sur les réseaux sociaux visant à cibler ces personnes pour les sensibiliser au travers de son projet expérimental.
    Joel Kopdem, cherche à en savoir plus sur l'humain, sur ce qu'il était et ce qu'il est devenu à cause du numérique, la regression continue des sens, les hommes qui voient de moins en moins bien, qui entendent de moins en moins et qui ne savent distinguer un bon whisky d'un label 5.
   Il tombe sur l'étude de Dylan Pavlovic qui tente des expériences et propose des exercices pour affiner ses 5 sens de la façon la plus simple et la plus effective possible pour ainsi reprendre goût à la vie réelle.
+  
+  
+  ## ARCHES NARRATIVES : 
+
+Un monde vendeur de rêves est le marchand de sable idéal pour les naîf et les plus influençables, dans cette expérience on va apprendre à se découvrir en se libérant des entraves numériques.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Le_marchand_de_sable.jpg/220px-Le_marchand_de_sable.jpg)
+
+
+
+1. Sam est sur Instagram à farmer les likes 
+2. Il tombe sur un post animé, sombre qui le vise directement ( ex:*HEY U SPENT 6H on INSTAGRAM TODAY, WHU U DO THIS?*)
+3. Il clique dessus et se retrouve sur le site hebergeant le project interactif
+4. Il lance le projet et se laisse emporter par les sons, les visuels et une simple ergonomie, il n'a qu'à suivre l'histoire
+5. A la fin de son expérience, il prend conscience des dangers du numérique et peut eventuellement envisager une déconnexion progressive, sans pour autant se déconnecter complètement.
+
+
+![](https://i.imgur.com/aEglXm3.png)
+
+1. Début de l'expérience sur une application point and click très simpliste en 2D
+2. Le début est bruyant, coloré, vif
+3. Plusieurs étapes sont disponibles pour apaiser cette expérience, l'adoucir, se débarasser des nuisances
+5. On regagne son ouïe, le son baisse et devient plus agréable
+6. On regagne la vue, les couleurs s'adoucissent et l'univers s'éclaire
+7. On regagne son odorat, on respire
+8. On regagne le gout
+9. On regagne le toucher, on est en contact avec une autre personne en dehors de la téchnologie, 
+10. Tout s'eclaircit et un message à la fin 
+
+
+
+
+
+## Gestion de projet 
+
+### Sprints : 
+
+Le choix est volontaire de fuir le côté protocolaire des noms de sprints et partir sur une histoire.
+
+1. SAM se prépare à vivre son aventure
+2. SAM PLONGE DANS L’INCONNU
+3. SAM SE redécouvre des sens
+4. SAM n’est plus ce qu’il était
+5. SAM5ENS
+
