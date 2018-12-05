@@ -220,6 +220,5 @@ Action => Fuite vers la lumière
 
 ### Conclusion
 
-J'en ai marre de faire ça
-        
+I NEED VR        
 
