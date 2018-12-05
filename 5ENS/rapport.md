@@ -207,5 +207,15 @@ Le choix est volontaire de fuir le côté protocolaire des noms de sprints et pa
     - Solution : Dav, 
 
 
+
+
+
+### Développement supplémentaire :
+
+![](https://github.com/CNAMPRO/Deconnexion-Numerique/blob/master/5ENS/TOUCHER_1.gif)
+Les gens sont dans une bulle, Sam est invisible, sam tente de se rapprocher 
+Sa conscience intervient et lui explique que ce qu’il est entrain de faire ne sert à rien, car ces personnes sont connectées à leur bulle et qu’il ferait mieux de partir maintenant 
+Action => Fuite vers la lumière
+
         
 
