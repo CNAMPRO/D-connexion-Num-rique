@@ -165,9 +165,25 @@ Un monde vendeur de rêves est le marchand de sable idéal pour les naîf et les
 Le choix est volontaire de fuir le côté protocolaire des noms de sprints et partir sur une histoire.
 
 1. SAM se prépare à vivre son aventure
-  Correspond à une phrase 0 de préparation du projet, avec de la gestion de conf, de la veille et de reflexion
+    - Correspond à une phrase 0 de préparation du projet, avec de la gestion de conf, de la veille et de reflexion
+    - Toutes les Users stories ont été réalisées dans les temps
 2. SAM PLONGE DANS L’INCONNU
+    - Correspond à une première prise en mains d'Unity
+    - Toutes les users stories ont été réalisées dans les temps
 3. SAM SE redécouvre des sens
+    - Application du traitement de son et premières ébauches qui comment à se modéliser avec la création de plusieurs scènes 
+    - Précisions sur les niveaux et refonte des bases de départ quant à la représentation des 5 sens 
+    - Difficultés à mettre en pratique les idées abstraites.
+    - 90% des stories ont été réalisées et le restant a été décalé sur le prochain sprint
 4. SAM n’est plus ce qu’il était
+    - Modélisation de quasiment tous les niveaux mais toujours des manques de précisions sur les différents sens
+    - Difficultés : Du retard sur les stories qui ont été déclaées dans ce sprint
+    - Manque de compétences de l'équipe pour évoluer sur toutes les scènes en parallèle, BottleNeck du travail vers un seul développeur
 5. SAM5ENS
+    - Aucune difficulté particulière grâce notament à l'expérience acquise
+    - Sprint d'intégration et de finitions
+    - Quelques stories n'ont pas été implémentées :
+        - Cinématiques poussées
+        - Background de l'histoire plus poussé
+        
 
