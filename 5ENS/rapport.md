@@ -217,5 +217,9 @@ Les gens sont dans une bulle, Sam est invisible, sam tente de se rapprocher
 Sa conscience intervient et lui explique que ce qu’il est entrain de faire ne sert à rien, car ces personnes sont connectées à leur bulle et qu’il ferait mieux de partir maintenant 
 Action => Fuite vers la lumière
 
+
+### Conclusion
+
+J'en ai marre de faire ça
         
 
