@@ -68,14 +68,11 @@ Le process est ici représenté par 8 trames
           - vit en France dans une zone résidentielle
           - Traits de caractère : Accent du sud
           - Relation à la technologie : 10/10 => Addicted
-          - Il porte des adidas Vegan parce que c'est à la mode
       - Objectifs :
-          - Augmenter ses likes sur Instagram
-          - Augmenter ses relations sur LinkedIn
           - Soigner son image numérique au maximum et se faire connaître dans le milieu des courses automobiles
           - Trouver une copine sur Meetic
           - Découverte du projet :
-            - Trailer en publicité sur Instagram
+            - Bouche à oreilles
       - FREINS
         - Epileptique 
         - Trop sensible
@@ -93,11 +90,9 @@ Le process est ici représenté par 8 trames
         - Relation à la technologie : 9/10 Très accroc
         - Aime la mode, prendre ses plats en photos
       - Objectifs :
-        - Devenir une influenceuse sur Instagram
-        - Soigner son image numérique au maximum 
-        - Trouver un compagnon sur AdopteUnMec
+        - Faire évoluter sa startup
       - Découverte du projet :
-        - Trailer en publicité sur Instagram
+        - En lisant un article sur des jeux vidéos indépendants
       - FREINS
         - Trop sensible
         - Fragile
