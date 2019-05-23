@@ -214,6 +214,5 @@ Action => Fuite vers la lumière
 
 
 ### Conclusion
-
-I NEED VR        
+   
 
